@@ -1,4 +1,6 @@
 import argparse
+import time
+import webbrowser
 from pathlib import Path
 
 import networkx as nx
@@ -102,14 +104,51 @@ def build_graph_html(nodes_csv: Path, edges_csv: Path, out_html: Path, max_nodes
 def main():
     parser = argparse.ArgumentParser(description="Generate investigation visualizations")
     parser.add_argument("--out-dir", default="data_out", help="Directory with investigation CSV files")
+    parser.add_argument("--no-open", action="store_true", help="Don't open visualizations in browser")
     args = parser.parse_args()
 
     out_dir = Path(args.out_dir)
+    
+    print("\n" + "="*60)
+    print("🎨 GENERATING VISUALIZATIONS")
+    print("="*60)
+    
+    # Timeline
+    print("\n📈 Generating timeline visualization...")
+    timeline_start = time.time()
     build_timeline_html(out_dir / "topic_timeline.csv", out_dir / "timeline.html")
+    timeline_time = time.time() - timeline_start
+    print(f"   ✅ Timeline created in {timeline_time:.2f}s")
+    print(f"      → {out_dir / 'timeline.html'}")
+    
+    # Graph
+    print("\n🕸️  Generating network graph visualization...")
+    graph_start = time.time()
     build_graph_html(out_dir / "investigation_nodes.csv", out_dir / "investigation_edges.csv", out_dir / "graph.html")
-
-    print(f"Wrote visualization: {out_dir / 'timeline.html'}")
-    print(f"Wrote visualization: {out_dir / 'graph.html'}")
+    graph_time = time.time() - graph_start
+    print(f"   ✅ Graph created in {graph_time:.2f}s")
+    print(f"      → {out_dir / 'graph.html'}")
+    
+    # Open in browser if requested
+    if not args.no_open:
+        print("\n🌐 Opening visualizations in browser...")
+        timeline_file = (out_dir / "timeline.html").absolute()
+        graph_file = (out_dir / "graph.html").absolute()
+        
+        try:
+            webbrowser.open(f"file:///{timeline_file}")
+            print(f"   ✅ Timeline opened: file:///{timeline_file}")
+            time.sleep(1)  # Slight delay between opening
+            webbrowser.open(f"file:///{graph_file}")
+            print(f"   ✅ Graph opened: file:///{graph_file}")
+        except Exception as e:
+            print(f"   ❌ Failed to open browser: {e}")
+            print(f"      Open manually: {timeline_file}")
+            print(f"      Open manually: {graph_file}")
+    
+    print("\n" + "="*60)
+    print("✨ Visualization complete!")
+    print("="*60 + "\n")
 
 
 if __name__ == "__main__":

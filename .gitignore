@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+data_out/execution_*.log
+data_out/investigation_log_*.txt
+.streamlit/

@@ -1,10 +1,13 @@
 import argparse
 import json
+import os
 import re
+import time
 from collections import Counter, defaultdict
 from pathlib import Path
 
 import pandas as pd
+from openai import OpenAI
 
 
 TOPIC_RULES = {
@@ -168,12 +171,23 @@ def build_graph(records):
     return pd.DataFrame(nodes), pd.DataFrame(edges), pd.DataFrame(topic_timeline_rows), findings
 
 
-def write_findings(path: Path, findings: dict):
+def write_findings(path: Path, findings: dict, llm_narrative: str = None):
     lines = [
         "# Investigation Findings",
         "",
-        "## Top Topics",
     ]
+    
+    if llm_narrative:
+        lines.extend([
+            "## AI-Generated Narrative Analysis",
+            "",
+            llm_narrative,
+            "",
+        ])
+    
+    lines.extend([
+        "## Top Topics",
+    ])
     for topic, count in findings["top_topics"]:
         lines.append(f"- {topic}: {count}")
 
@@ -196,27 +210,139 @@ def write_findings(path: Path, findings: dict):
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
+def generate_llm_narrative(findings: dict) -> str:
+    """Generate AI narrative analysis of investigation findings using OpenAI."""
+    api_key = os.getenv("OPENAI_API_KEY")
+    model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+    if not api_key:
+        print("⚠️  OPENAI_API_KEY not set. Skipping LLM narrative generation.")
+        return None
+    
+    client = OpenAI(api_key=api_key)
+    
+    # Build context for LLM
+    top_topics = ", ".join([f"{t} ({c})" for t, c in findings["top_topics"][:5]])
+    top_people = ", ".join([p for p, _ in findings["top_people"][:5]])
+    risk_count = findings["risk_doc_count"]
+    
+    prompt = f"""Analyze the following Swedish regional government investigation data and provide a concise narrative summary of key findings:
+
+Top Topics: {top_topics}
+Most Mentioned People: {top_people}
+Risk-Signal Documents: {risk_count}
+
+Write a 2-3 paragraph executive summary in Swedish that explains:
+1. What the main focus areas are (based on topics)
+2. Key stakeholders involved
+3. Risk signals or governance concerns
+4. Recommended next steps for investigation
+
+Keep it professional but accessible."""
+
+    print(f"🤖 Generating LLM narrative with model: {model}")
+    try:
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {
+                    "role": "system",
+                    "content": "You are an expert analyst of Swedish regional government documents. Provide clear, actionable insights."
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            temperature=0.7,
+            max_tokens=800,
+        )
+        narrative = response.choices[0].message.content
+        print("✅ LLM narrative generated successfully")
+        return narrative
+    except Exception as e:
+        print(f"❌ LLM generation failed: {e}")
+        return None
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build investigation graph and findings from ingested JSONL")
     parser.add_argument("--index", required=True, help="Path to JSONL index")
     parser.add_argument("--out-dir", default="data_out", help="Output folder for graph and findings")
+    parser.add_argument("--llm", action="store_true", help="Generate LLM narrative (requires OPENAI_API_KEY)")
     args = parser.parse_args()
 
     out_dir = Path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    # Start timing
+    start_time = time.time()
+    print("\n" + "="*60)
+    print("🔍 REGIONAL GOVERNMENT INVESTIGATION AGENT")
+    print("="*60)
+    
+    # Load records
+    print("\n📂 Loading records...")
+    load_start = time.time()
     records = load_records(Path(args.index))
+    load_time = time.time() - load_start
+    print(f"   ✅ Loaded {len(records)} documents in {load_time:.2f}s")
+    
+    # Build graph
+    print("\n🔗 Building investigation graph...")
+    graph_start = time.time()
     nodes_df, edges_df, timeline_df, findings = build_graph(records)
+    graph_time = time.time() - graph_start
+    print(f"   ✅ Graph built in {graph_time:.2f}s")
+    print(f"      - {len(nodes_df)} nodes (documents, cases, topics, people)")
+    print(f"      - {len(edges_df)} edges (relationships)")
+    print(f"      - {len(timeline_df)} timeline entries")
 
+    # Generate LLM narrative if requested
+    llm_narrative = None
+    if args.llm:
+        llm_start = time.time()
+        llm_narrative = generate_llm_narrative(findings)
+        llm_time = time.time() - llm_start
+        print(f"   ✅ LLM narrative generated in {llm_time:.2f}s")
+    
+    # Save outputs
+    print("\n💾 Writing outputs...")
+    output_start = time.time()
     nodes_df.to_csv(out_dir / "investigation_nodes.csv", index=False)
     edges_df.to_csv(out_dir / "investigation_edges.csv", index=False)
     timeline_df.to_csv(out_dir / "topic_timeline.csv", index=False)
-    write_findings(out_dir / "investigation_findings.md", findings)
+    write_findings(out_dir / "investigation_findings.md", findings, llm_narrative)
+    output_time = time.time() - output_start
+    print(f"   ✅ Files written in {output_time:.2f}s")
+    print(f"      - {out_dir / 'investigation_nodes.csv'}")
+    print(f"      - {out_dir / 'investigation_edges.csv'}")
+    print(f"      - {out_dir / 'topic_timeline.csv'}")
+    print(f"      - {out_dir / 'investigation_findings.md'}")
 
-    print(f"Wrote nodes: {len(nodes_df)}")
-    print(f"Wrote edges: {len(edges_df)}")
-    print(f"Wrote timeline rows: {len(timeline_df)}")
-    print(f"Wrote findings: {out_dir / 'investigation_findings.md'}")
+    # Print findings summary
+    print("\n📊 INVESTIGATION SUMMARY")
+    print("-" * 60)
+    print("Top Topics:")
+    for topic, count in findings["top_topics"][:5]:
+        print(f"   • {topic}: {count} mentions")
+    
+    print("\nMost Mentioned People:")
+    for person, count in findings["top_people"][:5]:
+        print(f"   • {person}: {count} mentions")
+    
+    print(f"\nRisk-Signal Documents: {findings['risk_doc_count']}")
+    
+    # Print timing summary
+    total_time = time.time() - start_time
+    print("\n⏱️  EXECUTION TIME SUMMARY")
+    print("-" * 60)
+    print(f"   Load:        {load_time:.2f}s")
+    print(f"   Graph:       {graph_time:.2f}s")
+    if args.llm:
+        print(f"   LLM:         {llm_time:.2f}s")
+    print(f"   Output:      {output_time:.2f}s")
+    print(f"   TOTAL:       {total_time:.2f}s")
+    print("="*60 + "\n")
 
 
 if __name__ == "__main__":
