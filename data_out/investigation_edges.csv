@@ -1,0 +1,1106 @@
+source,target,relation,weight
+doc:0,case:unknown_case,belongs_to,1
+doc:0,topic:ai,mentions_topic,1
+doc:0,topic:budget,mentions_topic,1
+doc:0,topic:healthcare,mentions_topic,1
+doc:0,topic:transport,mentions_topic,1
+doc:0,topic:governance,mentions_topic,1
+doc:0,"person:Regionfullmäktige 
+ 
+KALLELSE",mentions_person,1
+doc:0,person:DAGORDNING  RS,mentions_person,1
+doc:0,person:Plats Landstingshuset,mentions_person,1
+doc:0,"person:Stockholm  
+ Ingång",mentions_person,1
+doc:0,person:Mikael Sundesten,mentions_person,1
+doc:0,"person:Regionfullmäktige 
+ 
+Dagordning",mentions_person,1
+doc:0,person:Amelie Tarschys Ingre,mentions_person,1
+doc:0,person:Amelie Tarschys Ingre,mentions_person,1
+doc:0,person:Kristoffer Tamsons,mentions_person,1
+doc:0,person:Axel Conradi,mentions_person,1
+doc:0,"person:Life Science-hub  
+ RS",mentions_person,1
+doc:0,person:Axel Conradi,mentions_person,1
+doc:0,person:Axel Conradi,mentions_person,1
+doc:0,person:Kristoffer Tamsons,mentions_person,1
+doc:0,person:Karl Henriksson,mentions_person,1
+doc:1,case:unknown_case,belongs_to,1
+doc:1,topic:healthcare,mentions_topic,1
+doc:1,topic:transport,mentions_topic,1
+doc:1,topic:governance,mentions_topic,1
+doc:1,person:Charlotte Broberg,mentions_person,1
+doc:1,person:Carl-Johan Schiller,mentions_person,1
+doc:1,person:Amelie Tarschys Ingre,mentions_person,1
+doc:1,person:Axel Conradi,mentions_person,1
+doc:1,person:Carl-Johan Schiller,mentions_person,1
+doc:1,person:Amelie Tarschys Ingre,mentions_person,1
+doc:1,person:Daniel Dronjak,mentions_person,1
+doc:1,"person:Tvärförbindelse 
+Södertörn 
+RS",mentions_person,1
+doc:1,person:Amelie Tarschys Ingre,mentions_person,1
+doc:1,person:Anna Malm Kelfve,mentions_person,1
+doc:1,person:Maria Leissner,mentions_person,1
+doc:1,person:Pär Hommerberg,mentions_person,1
+doc:2,case:RS-2026-0210,belongs_to,1
+doc:2,topic:healthcare,mentions_topic,1
+doc:2,topic:transport,mentions_topic,1
+doc:2,topic:governance,mentions_topic,1
+doc:2,"person:Moderaterna 
+INTERPELLATION",mentions_person,1
+doc:2,person:Susanne Sjöblom,mentions_person,1
+doc:2,"person:Region 
+Stockholms",mentions_person,1
+doc:2,person:Enligt Socialstyrelsen,mentions_person,1
+doc:2,person:Region Skåne,mentions_person,1
+doc:2,person:Moderaterna  INTERPELLATION,mentions_person,1
+doc:2,person:Moderaterna  INTERPELLATION,mentions_person,1
+doc:2,"person:Susanne Sjöblom 
+Moderaterna",mentions_person,1
+doc:3,case:RS-2026-0210,belongs_to,1
+doc:3,topic:healthcare,mentions_topic,1
+doc:3,topic:transport,mentions_topic,1
+doc:3,topic:governance,mentions_topic,1
+doc:3,person:Talla Alkurdi,mentions_person,1
+doc:3,person:RS RS,mentions_person,1
+doc:3,person:Susanne Sjöblom,mentions_person,1
+doc:3,person:Susanne Sjöblom,mentions_person,1
+doc:3,person:RS RS,mentions_person,1
+doc:3,person:Att Region Skåne,mentions_person,1
+doc:3,person:Region Skåne,mentions_person,1
+doc:3,person:Region Skåne,mentions_person,1
+doc:3,person:Rädda Liv,mentions_person,1
+doc:3,person:RS RS,mentions_person,1
+doc:3,person:Talla Alkurdi,mentions_person,1
+doc:4,case:RS-2026-0213,belongs_to,1
+doc:4,topic:healthcare,mentions_topic,1
+doc:4,topic:governance,mentions_topic,1
+doc:4,"person:Moderaterna 
+INTERPELLATION",mentions_person,1
+doc:4,person:Susanne Sjöblom,mentions_person,1
+doc:4,person:Om Region Stockholm,mentions_person,1
+doc:4,person:Moderaterna  INTERPELLATION,mentions_person,1
+doc:4,"person:Susanne Sjöblom 
+Moderaterna",mentions_person,1
+doc:5,case:RS-2026-0213,belongs_to,1
+doc:5,topic:healthcare,mentions_topic,1
+doc:5,topic:governance,mentions_topic,1
+doc:5,person:Talla Alkurdi,mentions_person,1
+doc:5,person:Susanne Sjöblom,mentions_person,1
+doc:5,person:Susanne Sjöblom,mentions_person,1
+doc:5,person:Regionalt Cancercentrum,mentions_person,1
+doc:5,person:Stockholm Gotland,mentions_person,1
+doc:5,person:Talla Alkurdi,mentions_person,1
+doc:6,case:RS-2026-0214,belongs_to,1
+doc:6,topic:budget,mentions_topic,1
+doc:6,topic:transport,mentions_topic,1
+doc:6,topic:governance,mentions_topic,1
+doc:6,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:6,person:Mötesplats Nacka,mentions_person,1
+doc:6,"person:Moderaterna 
+ 
+INTERPELLATION",mentions_person,1
+doc:6,"person:Nacka 
+Centrum",mentions_person,1
+doc:6,person:Nacka Centrum,mentions_person,1
+doc:7,case:RS-2026-0214,belongs_to,1
+doc:7,topic:budget,mentions_topic,1
+doc:7,topic:healthcare,mentions_topic,1
+doc:7,topic:transport,mentions_topic,1
+doc:7,topic:governance,mentions_topic,1
+doc:7,"person:Investeringsregionrådet 
+Jens Sjöström",mentions_person,1
+doc:7,"person:Nacka 
+Centrum",mentions_person,1
+doc:7,person:Nacka Centrum,mentions_person,1
+doc:7,person:Mötesplats Nacka,mentions_person,1
+doc:7,person:Jens Sjöström,mentions_person,1
+doc:8,case:RS-2026-0368,belongs_to,1
+doc:8,topic:healthcare,mentions_topic,1
+doc:8,topic:transport,mentions_topic,1
+doc:8,topic:governance,mentions_topic,1
+doc:8,person:Amelie Tarschys Ingre,mentions_person,1
+doc:8,person:Karolinska Institutet,mentions_person,1
+doc:8,"person:Region 
+Stockholm",mentions_person,1
+doc:8,person:Amelie Tarschys Ingre,mentions_person,1
+doc:9,case:RS-2026-0368,belongs_to,1
+doc:9,topic:healthcare,mentions_topic,1
+doc:9,topic:transport,mentions_topic,1
+doc:9,topic:governance,mentions_topic,1
+doc:9,person:Sandra Ivanovic Rubin,mentions_person,1
+doc:9,"person:Amelie Tarschys 
+Ingre",mentions_person,1
+doc:9,person:Talla Alkurdi,mentions_person,1
+doc:9,"person:Region 
+Stockholm",mentions_person,1
+doc:9,person:Sandra Ivanovic Rubin,mentions_person,1
+doc:10,case:RS-2026-0369,belongs_to,1
+doc:10,topic:budget,mentions_topic,1
+doc:10,topic:healthcare,mentions_topic,1
+doc:10,topic:governance,mentions_topic,1
+doc:10,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:10,person:Axel Conradi,mentions_person,1
+doc:10,"person:Axel Conradi 
+Moderaterna",mentions_person,1
+doc:11,case:RS-2026-0369,belongs_to,1
+doc:11,topic:budget,mentions_topic,1
+doc:11,topic:healthcare,mentions_topic,1
+doc:11,person:Talla Alkurdi,mentions_person,1
+doc:11,person:Axel Conradi,mentions_person,1
+doc:11,"person:Region 
+Stockholm",mentions_person,1
+doc:11,"person:Västra 
+Götalandsregionen",mentions_person,1
+doc:11,"person:Region 
+Stockholm",mentions_person,1
+doc:11,person:För Mittenkoalitionen,mentions_person,1
+doc:11,person:Talla Alkurdi,mentions_person,1
+doc:12,case:RS-2026-0374,belongs_to,1
+doc:12,topic:healthcare,mentions_topic,1
+doc:12,topic:transport,mentions_topic,1
+doc:12,topic:governance,mentions_topic,1
+doc:12,person:Pär Hommerberg,mentions_person,1
+doc:12,person:Diskrimineringsombudsmannen DO,mentions_person,1
+doc:12,person:Region Skåne,mentions_person,1
+doc:12,"person:Region 
+Stockholm",mentions_person,1
+doc:12,"person:Pär Hommerberg 
+Liberalerna",mentions_person,1
+doc:13,case:RS-2026-0374,belongs_to,1
+doc:13,topic:healthcare,mentions_topic,1
+doc:13,person:Talla Alkurdi,mentions_person,1
+doc:13,person:Pär Hommerberg,mentions_person,1
+doc:13,person:Pär Hommerberg,mentions_person,1
+doc:13,"person:Region
+Stockholm",mentions_person,1
+doc:13,person:Talla Alkurdi,mentions_person,1
+doc:14,case:RS-2026-0375,belongs_to,1
+doc:14,topic:healthcare,mentions_topic,1
+doc:14,topic:transport,mentions_topic,1
+doc:14,topic:governance,mentions_topic,1
+doc:14,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:14,person:Charlotte Broberg,mentions_person,1
+doc:14,"person:ME 
+  
+Den",mentions_person,1
+doc:14,"person:RME 
+Stockholm",mentions_person,1
+doc:14,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:14,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:14,"person:Charlotte Broberg 
+Moderaterna",mentions_person,1
+doc:15,case:RS-2026-0375,belongs_to,1
+doc:15,topic:healthcare,mentions_topic,1
+doc:15,topic:transport,mentions_topic,1
+doc:15,topic:governance,mentions_topic,1
+doc:15,person:Talla Alkurdi,mentions_person,1
+doc:15,person:Charlotte Broberg,mentions_person,1
+doc:15,"person:ME 
+ 
+Charlotte Broberg",mentions_person,1
+doc:15,person:Karolinska Universitetssjukhuset,mentions_person,1
+doc:15,person:Talla Alkurdi,mentions_person,1
+doc:16,case:RS-2026-0363,belongs_to,1
+doc:16,topic:budget,mentions_topic,1
+doc:16,topic:transport,mentions_topic,1
+doc:16,topic:governance,mentions_topic,1
+doc:16,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:16,person:Anna Malm Kelfve,mentions_person,1
+doc:16,person:Anna Malm Kelfve,mentions_person,1
+doc:17,case:RS-2026-0363,belongs_to,1
+doc:17,topic:budget,mentions_topic,1
+doc:17,topic:transport,mentions_topic,1
+doc:17,topic:governance,mentions_topic,1
+doc:17,"person:Trafikregionråd 
+Jakop Dalunde",mentions_person,1
+doc:17,person:Anna Malm Kelfve,mentions_person,1
+doc:17,person:Anna Malm Kelfve,mentions_person,1
+doc:17,person:Enligt Trafikförvaltningen,mentions_person,1
+doc:17,person:Jakop Dalunde,mentions_person,1
+doc:18,case:RS-2026-0205,belongs_to,1
+doc:18,topic:healthcare,mentions_topic,1
+doc:18,topic:transport,mentions_topic,1
+doc:18,topic:governance,mentions_topic,1
+doc:18,person:Amelie Tarschys Ingre,mentions_person,1
+doc:18,person:Amelie Tarschys Ingre,mentions_person,1
+doc:19,case:RS-2026-0205,belongs_to,1
+doc:19,topic:ai,mentions_topic,1
+doc:19,topic:budget,mentions_topic,1
+doc:19,topic:healthcare,mentions_topic,1
+doc:19,topic:transport,mentions_topic,1
+doc:19,topic:governance,mentions_topic,1
+doc:19,"person:Finansregionrådet 
+Aida",mentions_person,1
+doc:19,person:Amelie Tarschys Ingre,mentions_person,1
+doc:19,"person:Region 
+Stockholms",mentions_person,1
+doc:19,person:Amelie Tarschys Ingre,mentions_person,1
+doc:19,"person:Region 
+Stockholm",mentions_person,1
+doc:19,"person:Nämndordförande 
+Göran Stiernstedt",mentions_person,1
+doc:19,person:Christophe Pedroletti,mentions_person,1
+doc:19,"person:Region 
+Stockholms",mentions_person,1
+doc:20,case:RS-2026-0367,belongs_to,1
+doc:20,topic:transport,mentions_topic,1
+doc:20,topic:governance,mentions_topic,1
+doc:20,person:Line El Yafi,mentions_person,1
+doc:20,"person:Vanessa 
+Stjernborg",mentions_person,1
+doc:20,person:Lina El Yafi,mentions_person,1
+doc:21,case:RS-2026-0367,belongs_to,1
+doc:21,topic:transport,mentions_topic,1
+doc:21,topic:governance,mentions_topic,1
+doc:21,"person:Trafikregionråd  
+Jakop Dalunde",mentions_person,1
+doc:21,person:Lina El Yafi,mentions_person,1
+doc:21,person:Lina El Yafi,mentions_person,1
+doc:21,"person:Region 
+Stockholm",mentions_person,1
+doc:21,person:Jakop Dalunde,mentions_person,1
+doc:22,case:RS-2026-0376,belongs_to,1
+doc:22,topic:transport,mentions_topic,1
+doc:22,topic:governance,mentions_topic,1
+doc:22,person:Pär Hommerberg,mentions_person,1
+doc:22,"person:Pär Hommerberg 
+Liberalerna",mentions_person,1
+doc:23,case:RS-2026-0376,belongs_to,1
+doc:23,topic:transport,mentions_topic,1
+doc:23,"person:Trafikregionråd 
+Jakop Dalunde",mentions_person,1
+doc:23,person:Pär Hommerberg,mentions_person,1
+doc:23,person:Pär Hommerberg,mentions_person,1
+doc:23,person:Jakop Dalunde,mentions_person,1
+doc:24,case:RS-2026-0365,belongs_to,1
+doc:24,topic:ai,mentions_topic,1
+doc:24,topic:budget,mentions_topic,1
+doc:24,topic:healthcare,mentions_topic,1
+doc:24,topic:transport,mentions_topic,1
+doc:24,topic:governance,mentions_topic,1
+doc:24,person:Amelie Tarschys Ingre,mentions_person,1
+doc:24,person:Amelie Tarschys Ingre,mentions_person,1
+doc:25,case:RS-2026-0365,belongs_to,1
+doc:25,topic:ai,mentions_topic,1
+doc:25,topic:budget,mentions_topic,1
+doc:25,topic:healthcare,mentions_topic,1
+doc:25,topic:transport,mentions_topic,1
+doc:25,topic:governance,mentions_topic,1
+doc:25,"person:Finansregionråd 
+Aida",mentions_person,1
+doc:25,"person:Amelie Tarschys 
+Ingre",mentions_person,1
+doc:25,person:Tarschys Ingre,mentions_person,1
+doc:25,person:Från Alfred Nobels,mentions_person,1
+doc:25,person:Regional AI,mentions_person,1
+doc:25,person:Digital Futures,mentions_person,1
+doc:25,person:AI Sweden,mentions_person,1
+doc:26,case:RS-2026-0364,belongs_to,1
+doc:26,topic:budget,mentions_topic,1
+doc:26,topic:transport,mentions_topic,1
+doc:26,topic:governance,mentions_topic,1
+doc:26,person:Anna Sehlin,mentions_person,1
+doc:26,"person:Region 
+Stockholm",mentions_person,1
+doc:26,person:IVL Svenska Miljöinstitutet,mentions_person,1
+doc:26,person:Enligt IVL,mentions_person,1
+doc:26,person:Anna Sehlin,mentions_person,1
+doc:27,case:RS-2026-0364,belongs_to,1
+doc:27,topic:transport,mentions_topic,1
+doc:27,topic:governance,mentions_topic,1
+doc:27,person:Märta Martin-Granlund,mentions_person,1
+doc:27,person:Anna Sehlin,mentions_person,1
+doc:27,person:Anna Sehlin,mentions_person,1
+doc:27,"person:Region 
+Stockholms",mentions_person,1
+doc:27,"person:Region 
+Stockholm",mentions_person,1
+doc:27,person:Märta Martin-Granlund,mentions_person,1
+doc:28,case:RS-2026-0370,belongs_to,1
+doc:28,topic:healthcare,mentions_topic,1
+doc:28,topic:transport,mentions_topic,1
+doc:28,topic:governance,mentions_topic,1
+doc:28,person:Amelie Tarschys Ingre,mentions_person,1
+doc:28,person:Som Liberalerna,mentions_person,1
+doc:28,person:Amelie Tarschys Ingre,mentions_person,1
+doc:29,case:RS-2026-0370,belongs_to,1
+doc:29,topic:budget,mentions_topic,1
+doc:29,topic:healthcare,mentions_topic,1
+doc:29,topic:transport,mentions_topic,1
+doc:29,topic:governance,mentions_topic,1
+doc:29,"person:Primärvårdsregionråd 
+Christine Lorne",mentions_person,1
+doc:29,"person:Amelie Tarschys 
+Ingre",mentions_person,1
+doc:29,person:Amelie Tarschys Ingre,mentions_person,1
+doc:29,person:Att ListOn,mentions_person,1
+doc:29,person:Christine Lorne,mentions_person,1
+doc:30,case:RS-2026-0378,belongs_to,1
+doc:30,topic:healthcare,mentions_topic,1
+doc:30,topic:transport,mentions_topic,1
+doc:30,topic:governance,mentions_topic,1
+doc:30,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:30,person:Peter Ohlsson,mentions_person,1
+doc:30,"person:Region 
+Stockholm",mentions_person,1
+doc:30,"person:Peter Ohlsson 
+Moderaterna",mentions_person,1
+doc:31,case:RS-2026-0378,belongs_to,1
+doc:31,topic:healthcare,mentions_topic,1
+doc:31,topic:transport,mentions_topic,1
+doc:31,topic:governance,mentions_topic,1
+doc:31,person:Sensitive Information,mentions_person,1
+doc:31,"person:Primärvårdsregionråd 
+Christine Lorne",mentions_person,1
+doc:31,person:Peter Ohlsson,mentions_person,1
+doc:31,person:Peter Ohlsson,mentions_person,1
+doc:31,"person:Region 
+Stockholm",mentions_person,1
+doc:31,person:Sensitive Information,mentions_person,1
+doc:31,"person:Karolinska 
+Universitetssjukhuset",mentions_person,1
+doc:31,person:Angående IVO-rapporten,mentions_person,1
+doc:31,person:Sensitive Information,mentions_person,1
+doc:31,person:Christine Lorne,mentions_person,1
+doc:32,case:RS-2026-0373,belongs_to,1
+doc:32,topic:budget,mentions_topic,1
+doc:32,topic:healthcare,mentions_topic,1
+doc:32,topic:transport,mentions_topic,1
+doc:32,topic:governance,mentions_topic,1
+doc:32,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:32,person:Charlotte Broberg,mentions_person,1
+doc:32,"person:Stockholm 
+  
+De",mentions_person,1
+doc:32,"person:Från 
+Moderaterna",mentions_person,1
+doc:32,"person:Region 
+Stockholm",mentions_person,1
+doc:32,person:Sankt Görans,mentions_person,1
+doc:32,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:32,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:32,"person:Charlotte Broberg 
+Moderaterna",mentions_person,1
+doc:33,case:RS-2026-0373,belongs_to,1
+doc:33,topic:healthcare,mentions_topic,1
+doc:33,topic:transport,mentions_topic,1
+doc:33,topic:governance,mentions_topic,1
+doc:33,person:Sandra Ivanovic Rubin,mentions_person,1
+doc:33,person:Charlotte Broberg,mentions_person,1
+doc:33,"person:Stockholm  
+ 
+ 
+Charlotte Broberg",mentions_person,1
+doc:33,person:För SLSO,mentions_person,1
+doc:33,person:Såväl SLSO,mentions_person,1
+doc:33,person:RPO Psykisk,mentions_person,1
+doc:33,person:Sandra Ivanovic Rubin,mentions_person,1
+doc:34,case:RS-2026-0372,belongs_to,1
+doc:34,topic:budget,mentions_topic,1
+doc:34,topic:governance,mentions_topic,1
+doc:34,person:Maria Leissner,mentions_person,1
+doc:34,"person:Maria Leissner  
+Liberalerna",mentions_person,1
+doc:35,case:RS-2026-0372,belongs_to,1
+doc:35,topic:budget,mentions_topic,1
+doc:35,topic:transport,mentions_topic,1
+doc:35,"person:Personalregionråd 
+Robert Johansson",mentions_person,1
+doc:35,person:Maria Leissner,mentions_person,1
+doc:35,person:Maria Leissner,mentions_person,1
+doc:35,person:Robert Johansson,mentions_person,1
+doc:36,case:unknown_case,belongs_to,1
+doc:36,topic:ai,mentions_topic,1
+doc:36,topic:budget,mentions_topic,1
+doc:36,topic:healthcare,mentions_topic,1
+doc:36,topic:transport,mentions_topic,1
+doc:36,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:36,person:Leif Gripestam,mentions_person,1
+doc:36,"person:Sverige 
+ 
+Under",mentions_person,1
+doc:36,person:Cambio Healthcare Systems,mentions_person,1
+doc:36,person:Take Care,mentions_person,1
+doc:36,person:Regionerna Blekinge,mentions_person,1
+doc:36,person:Familjeläkaren Marija Kramar,mentions_person,1
+doc:36,person:Region Gävleborg,mentions_person,1
+doc:36,person:Region Halland,mentions_person,1
+doc:36,person:Dagens Medicin,mentions_person,1
+doc:36,"person:Sveriges 
+Radio",mentions_person,1
+doc:36,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:36,"person:Leif Gripestam 
+Moderaterna",mentions_person,1
+doc:37,case:unknown_case,belongs_to,1
+doc:37,topic:ai,mentions_topic,1
+doc:37,topic:budget,mentions_topic,1
+doc:37,topic:healthcare,mentions_topic,1
+doc:37,topic:transport,mentions_topic,1
+doc:37,topic:governance,mentions_topic,1
+doc:37,"person:Personalregionråd 
+Robert Johansson",mentions_person,1
+doc:37,"person:Leif 
+Gripestam",mentions_person,1
+doc:37,"person:Sverige 
+ 
+Leif Gripenstam",mentions_person,1
+doc:37,"person:Region 
+Stockholm",mentions_person,1
+doc:37,person:Robert Johansson,mentions_person,1
+doc:38,case:unknown_case,belongs_to,1
+doc:38,topic:ai,mentions_topic,1
+doc:38,topic:budget,mentions_topic,1
+doc:38,topic:healthcare,mentions_topic,1
+doc:38,topic:transport,mentions_topic,1
+doc:38,topic:governance,mentions_topic,1
+doc:38,person:Axel Conradi,mentions_person,1
+doc:38,person:Tony Björklund,mentions_person,1
+doc:38,person:Robert Johansson,mentions_person,1
+doc:38,person:Talla Alkurdi,mentions_person,1
+doc:38,person:Carl-Johan Schiller,mentions_person,1
+doc:38,person:Talla Alkurdi,mentions_person,1
+doc:38,person:Sandra Ivanovic Rubin,mentions_person,1
+doc:38,person:Amelie Tarschys Ingre,mentions_person,1
+doc:38,person:Robert Johansson,mentions_person,1
+doc:38,person:Talla Alkurdi,mentions_person,1
+doc:38,person:Charlotte Broberg,mentions_person,1
+doc:38,person:Talla Alkurdi,mentions_person,1
+doc:38,person:Britt-Mari Canhasi,mentions_person,1
+doc:38,person:Talla Alkurdi,mentions_person,1
+doc:38,person:Carl-Johan Schiller,mentions_person,1
+doc:39,case:RS-2026-0208,belongs_to,1
+doc:39,topic:ai,mentions_topic,1
+doc:39,topic:budget,mentions_topic,1
+doc:39,topic:transport,mentions_topic,1
+doc:39,topic:governance,mentions_topic,1
+doc:39,person:Amelie Tarschys Ingre,mentions_person,1
+doc:39,person:Aida Hadzialic,mentions_person,1
+doc:39,person:Amelie Tarschys Ingre,mentions_person,1
+doc:40,case:RS-2026-0208,belongs_to,1
+doc:40,topic:ai,mentions_topic,1
+doc:40,topic:budget,mentions_topic,1
+doc:40,topic:healthcare,mentions_topic,1
+doc:40,topic:transport,mentions_topic,1
+doc:40,topic:governance,mentions_topic,1
+doc:40,"person:Finansregionrådet 
+Aida",mentions_person,1
+doc:40,person:Amelie Tarschys Ingre,mentions_person,1
+doc:40,person:Amelie Tarschys Ingre,mentions_person,1
+doc:40,person:För Locum,mentions_person,1
+doc:40,person:Inom Trafikförvaltningen,mentions_person,1
+doc:41,case:RS-2026-0051,belongs_to,1
+doc:41,topic:transport,mentions_topic,1
+doc:41,"person:Valärenden 
+Befrielser",mentions_person,1
+doc:41,person:Kristoffer Tamsons,mentions_person,1
+doc:41,person:Johanna Wistrand,mentions_person,1
+doc:41,person:Kurt-Erik Thorild,mentions_person,1
+doc:41,person:Övervakningsnämnden Stockholm Söder,mentions_person,1
+doc:41,"person:Anna-Lena 
+Österberg",mentions_person,1
+doc:41,person:Tove Sander,mentions_person,1
+doc:42,case:RS-2025-0986,belongs_to,1
+doc:42,topic:budget,mentions_topic,1
+doc:42,topic:healthcare,mentions_topic,1
+doc:42,topic:transport,mentions_topic,1
+doc:42,"person:Regionledningskontoret 
+Elisabet Angelov",mentions_person,1
+doc:42,"person:BILAGA   
+ 
+ 
+ 
+RS",mentions_person,1
+doc:42,"person:Regionstyrelsen 
+ 
+ 
+Förslag",mentions_person,1
+doc:42,person:AB SL Finans,mentions_person,1
+doc:42,person:Daniel Angermann  Ledamot,mentions_person,1
+doc:42,person:Catarina Strömsten Falkenmark,mentions_person,1
+doc:42,person:Fredrik Persson  Ledamot,mentions_person,1
+doc:42,person:AB Terreno,mentions_person,1
+doc:42,person:Victoria Hörnedal  Ledamot,mentions_person,1
+doc:42,person:Dan Eriksson  Ledamot,mentions_person,1
+doc:42,person:Charlotte Viksten  Ledamot,mentions_person,1
+doc:42,person:Stockholm AB,mentions_person,1
+doc:42,person:Andreas Henriksson  Ledamot,mentions_person,1
+doc:42,person:Corinne Pedroletti  Ledamot,mentions_person,1
+doc:42,person:Christina Sjöstrand  Suppleant,mentions_person,1
+doc:43,case:RS-2025-0986,belongs_to,1
+doc:43,topic:budget,mentions_topic,1
+doc:43,topic:healthcare,mentions_topic,1
+doc:43,topic:transport,mentions_topic,1
+doc:43,topic:governance,mentions_topic,1
+doc:43,"person:Regionledningskontoret  TJÄNSTEUTLÅTANDE  
+Elisabet",mentions_person,1
+doc:43,"person:Regionstyrelsen 
+ 
+ 
+Nominering",mentions_person,1
+doc:43,"person:Region 
+Stockholms",mentions_person,1
+doc:43,person:AB SL Finans,mentions_person,1
+doc:43,person:AB Terreno,mentions_person,1
+doc:43,person:Stockholm AB,mentions_person,1
+doc:43,"person:Folktandvården 
+Stockholms",mentions_person,1
+doc:43,person:MediCarrier AB,mentions_person,1
+doc:43,person:Sverige AB,mentions_person,1
+doc:43,person:TioHundra AB,mentions_person,1
+doc:43,person:Tobiasregistret AB,mentions_person,1
+doc:43,person:TJÄNSTEUTLÅTANDE RS,mentions_person,1
+doc:43,"person:Sammanfattning 
+Regionstyrelsen",mentions_person,1
+doc:43,"person:Bakgrund 
+Enligt",mentions_person,1
+doc:43,person:TioHundra AB,mentions_person,1
+doc:44,case:RS-2025-0986,belongs_to,1
+doc:44,topic:ai,mentions_topic,1
+doc:44,topic:budget,mentions_topic,1
+doc:44,topic:healthcare,mentions_topic,1
+doc:44,topic:transport,mentions_topic,1
+doc:44,"person:Regionstyrelsen 
+PROTOKOLLSUTDRAG RS",mentions_person,1
+doc:44,person:Ordförande Justerare Exp,mentions_person,1
+doc:44,"person:Sammanfattning 
+Regionstyrelsen",mentions_person,1
+doc:44,"person:Yrkanden 
+Ordförande Aida",mentions_person,1
+doc:44,"person:Beslut 
+Regionstyrelsen",mentions_person,1
+doc:44,person:AB SL Finans,mentions_person,1
+doc:44,person:AB Terreno,mentions_person,1
+doc:44,person:Stockholm AB,mentions_person,1
+doc:44,person:Folktandvården Stockholms,mentions_person,1
+doc:44,person:MediCarrier AB,mentions_person,1
+doc:44,person:Sverige AB,mentions_person,1
+doc:44,person:TioHundra AB,mentions_person,1
+doc:44,"person:Regionstyrelsen 
+PROTOKOLLSUTDRAG RS",mentions_person,1
+doc:44,person:Ordförande Justerare Exp,mentions_person,1
+doc:44,person:Tobiasregistret AB,mentions_person,1
+doc:45,case:RS-2026-0271,belongs_to,1
+doc:45,topic:transport,mentions_topic,1
+doc:45,"person:Regionledningskontoret 
+Elisabet Angelov",mentions_person,1
+doc:45,"person:BILAGA   
+ 
+ 
+ 
+RS",mentions_person,1
+doc:45,"person:Regionstyrelsen 
+ 
+ 
+Förslag",mentions_person,1
+doc:45,person:Michaela Haga,mentions_person,1
+doc:45,person:Leif Gripestam,mentions_person,1
+doc:45,person:Jakop Dalunde,mentions_person,1
+doc:46,case:RS-2026-0271,belongs_to,1
+doc:46,topic:transport,mentions_topic,1
+doc:46,"person:Regionledningskontoret  TJÄNSTEUTLÅTANDE  
+Elisabet",mentions_person,1
+doc:46,"person:Regionstyrelsen 
+ 
+ 
+Val",mentions_person,1
+doc:46,"person:Oslo-
+Stockholm",mentions_person,1
+doc:46,"person:AB 
+ 
+Regionledningskontorets",mentions_person,1
+doc:46,"person:Sammanfattning 
+Regionfullmäktige",mentions_person,1
+doc:46,"person:Bakgrund 
+Regionfullmäktige",mentions_person,1
+doc:46,person:TJÄNSTEUTLÅTANDE RS,mentions_person,1
+doc:46,"person:Emma Lennartsson 
+Regiondirektör",mentions_person,1
+doc:46,"person:Katarina Holmgren 
+Ekonomidirektör",mentions_person,1
+doc:46,"person:Oslo-
+Stockholm",mentions_person,1
+doc:46,"person:AB 
+Beslutsexpediering",mentions_person,1
+doc:46,"person:AB 
+ 
+ 
+Godkänd",mentions_person,1
+doc:46,person:Emma Lennartsson,mentions_person,1
+doc:47,case:RS-2026-0271,belongs_to,1
+doc:47,topic:ai,mentions_topic,1
+doc:47,topic:transport,mentions_topic,1
+doc:47,"person:Regionstyrelsen 
+PROTOKOLLSUTDRAG RS",mentions_person,1
+doc:47,person:Ordförande Justerare Exp,mentions_person,1
+doc:47,"person:AB 
+RS",mentions_person,1
+doc:47,"person:Sammanfattning 
+Regionfullmäktige",mentions_person,1
+doc:47,"person:AB 
+ 
+Yrkanden 
+Ordförande",mentions_person,1
+doc:47,person:Aida Hadzialic,mentions_person,1
+doc:47,"person:Beslut 
+Regionstyrelsen",mentions_person,1
+doc:47,"person:AB 
+ 
+Page",mentions_person,1
+doc:47,"person:Regionrådsberedningen 
+ 
+SKRIVELSE",mentions_person,1
+doc:47,"person:Regionstyrelsen 
+ 
+ 
+Val",mentions_person,1
+doc:47,"person:Oslo-
+Stockholm",mentions_person,1
+doc:47,"person:AB 
+ 
+Föredragande",mentions_person,1
+doc:47,"person:Ärendebeskrivning 
+Regionfullmäktige",mentions_person,1
+doc:47,"person:Oslo-
+Stockholm",mentions_person,1
+doc:47,"person:AB 
+ 
+ 
+Aida",mentions_person,1
+doc:48,case:RS-2026-0120,belongs_to,1
+doc:48,topic:budget,mentions_topic,1
+doc:48,topic:healthcare,mentions_topic,1
+doc:48,topic:transport,mentions_topic,1
+doc:48,topic:governance,mentions_topic,1
+doc:48,"person:SAMMANTRÄDESPROTOKOLL 
+Sida",mentions_person,1
+doc:48,"person:Region NORRTÄLJE 
+Stockholm",mentions_person,1
+doc:48,"person:KOMMUN 
+Kommunalförbundet Sjukvård",mentions_person,1
+doc:48,"person:Norrtälje 
+Sammanträdesdatum",mentions_person,1
+doc:48,person:Dnr KSON,mentions_person,1
+doc:48,person:Ekonomichef Ulrika Lindberg,mentions_person,1
+doc:48,person:Göran Stiernstedt,mentions_person,1
+doc:48,"person:Tiohundra AB 
+Towa",mentions_person,1
+doc:48,person:VD Tiohundra AB,mentions_person,1
+doc:48,person:Silfvander Jens,mentions_person,1
+doc:48,"person:Tiohundra 
+AB",mentions_person,1
+doc:48,person:För KSON,mentions_person,1
+doc:48,person:Tiohundra AB,mentions_person,1
+doc:48,person:Tiohundra AB,mentions_person,1
+doc:48,person:Tiohundra AB,mentions_person,1
+doc:49,case:unknown_case,belongs_to,1
+doc:49,topic:governance,mentions_topic,1
+doc:49,"person:Stockholm 
+ 
+Telefon",mentions_person,1
+doc:49,"person:Stockholm 
+Org",mentions_person,1
+doc:49,person:T-bana Rådhuset,mentions_person,1
+doc:49,"person:Diarienummer 
+RK",mentions_person,1
+doc:49,"person:Regionfullmäktige 
+ 
+Revisionsberättelser",mentions_person,1
+doc:49,person:Malmros Annika Sandström,mentions_person,1
+doc:49,"person:Staffan Olsson 
+Ordförande",mentions_person,1
+doc:49,person:Addo Sign ID-nummer,mentions_person,1
+doc:49,"person:Undertecknare
+Annika Sandström",mentions_person,1
+doc:49,"person:BankID File
+Hans-Erik",mentions_person,1
+doc:49,"person:BankID Mobile
+Anders",mentions_person,1
+doc:49,person:Staffan Olsson,mentions_person,1
+doc:49,"person:BankID Mobile
+Dokument",mentions_person,1
+doc:49,person:Missiv Årlig,mentions_person,1
+doc:49,person:Addo Sign,mentions_person,1
+doc:50,case:unknown_case,belongs_to,1
+doc:50,topic:budget,mentions_topic,1
+doc:50,topic:healthcare,mentions_topic,1
+doc:50,topic:transport,mentions_topic,1
+doc:50,topic:governance,mentions_topic,1
+doc:50,person:Kommunalförbundet Sjukvård,mentions_person,1
+doc:50,"person:Ärendet 
+ 
+Enligt",mentions_person,1
+doc:50,person:Kommunalförbundet Sjukvård,mentions_person,1
+doc:50,person:Mikael Sundesten Harry,mentions_person,1
+doc:50,person:Bouveng Ajda Asgari,mentions_person,1
+doc:51,case:unknown_case,belongs_to,1
+doc:51,topic:budget,mentions_topic,1
+doc:51,topic:healthcare,mentions_topic,1
+doc:51,topic:transport,mentions_topic,1
+doc:51,topic:governance,mentions_topic,1
+doc:51,person:Kommunalförbundet Sjukvård,mentions_person,1
+doc:51,"person:Norrtälje 
+Kommunfullmäktige",mentions_person,1
+doc:51,person:Kommunalförbundet Sjukvård,mentions_person,1
+doc:51,person:Norrtäljes Gemensamma Hälso,mentions_person,1
+doc:51,person:Tiohundra AB,mentions_person,1
+doc:51,"person:Norrtälje 
+ 
+ 
+Maj Åberg",mentions_person,1
+doc:51,person:Palm      Lena Cronvall,mentions_person,1
+doc:51,person:Göran Härngren    Lola,mentions_person,1
+doc:51,"person:Bodin 
+ 
+ 
+ 
+Bilaga  
+Revisorernas",mentions_person,1
+doc:51,person:Kommunalförbundet Sjukvård,mentions_person,1
+doc:51,"person:UTC
+Deltagare
+ 
+ 
+ÖHRLINGS",mentions_person,1
+doc:51,person:PRICEWATERHOUSECOOPERS AB,mentions_person,1
+doc:51,"person:Sverige
+ 
+ 
+KOMMUNALFÖRBUNDET SJUKVÅRD",mentions_person,1
+doc:51,person:OCH OMSORG,mentions_person,1
+doc:51,"person:Sverige
+Signerat",mentions_person,1
+doc:52,case:unknown_case,belongs_to,1
+doc:52,topic:ai,mentions_topic,1
+doc:52,topic:budget,mentions_topic,1
+doc:52,topic:healthcare,mentions_topic,1
+doc:52,topic:transport,mentions_topic,1
+doc:52,topic:governance,mentions_topic,1
+doc:52,"person:Stockholm 
+ 
+Telefon",mentions_person,1
+doc:52,"person:Stockholm 
+Org",mentions_person,1
+doc:52,person:T-bana Rådhuset,mentions_person,1
+doc:52,"person:Diarienummer 
+RK",mentions_person,1
+doc:52,"person:Regionfullmäktige 
+ 
+Revisionsberättelser",mentions_person,1
+doc:52,person:Malmros Annika Sandström,mentions_person,1
+doc:52,"person:Staffan Olsson 
+Ordförande",mentions_person,1
+doc:52,"person:Regionrevisorerna   
+Region Stockholm",mentions_person,1
+doc:52,person:Revisorsgrupp II,mentions_person,1
+doc:52,person:Revisorsgrupp III,mentions_person,1
+doc:52,"person:Regionrevisorerna   
+Region Stockholm",mentions_person,1
+doc:52,"person:Regionrevisorerna   
+Region Stockholm",mentions_person,1
+doc:52,"person:Region 
+Stockholm",mentions_person,1
+doc:52,"person:Region 
+Stockholms",mentions_person,1
+doc:52,person:Inriktningsmålen Hälso,mentions_person,1
+doc:53,case:RS-2025-0760,belongs_to,1
+doc:53,topic:budget,mentions_topic,1
+doc:53,topic:transport,mentions_topic,1
+doc:53,topic:governance,mentions_topic,1
+doc:53,"person:Stockholm 
+Besöksadress",mentions_person,1
+doc:53,"person:Innehåll
+Innehåll",mentions_person,1
+doc:53,"person:Sammanfattning 
+Att",mentions_person,1
+doc:53,person:Kommun Antal,mentions_person,1
+doc:53,person:Låg Hög Låg,mentions_person,1
+doc:53,"person:Hög  
+Botkyrka",mentions_person,1
+doc:53,"person:Upplands-
+Väsby",mentions_person,1
+doc:53,"person:Inledning 
+En",mentions_person,1
+doc:53,"person:Avgränsningar 
+Följande",mentions_person,1
+doc:53,person:För Stockholms,mentions_person,1
+doc:53,person:Enligt SCB,mentions_person,1
+doc:53,person:Kommun Totalt,mentions_person,1
+doc:53,person:Upplands Väsby,mentions_person,1
+doc:53,person:För Region Stockholm,mentions_person,1
+doc:53,person:För Stockholms,mentions_person,1
+doc:54,case:RS-2025-0760,belongs_to,1
+doc:54,topic:budget,mentions_topic,1
+doc:54,topic:healthcare,mentions_topic,1
+doc:54,topic:transport,mentions_topic,1
+doc:54,topic:governance,mentions_topic,1
+doc:54,"person:Stockholm 
+Besöksadress",mentions_person,1
+doc:54,"person:WSP Sverige 
+Dnr",mentions_person,1
+doc:54,"person:Miljökonsekvenser  
+Vatten  
+Avsnitt",mentions_person,1
+doc:54,"person:Naturmiljö  
+Avsnitt",mentions_person,1
+doc:54,"person:Klimatpåverkan  
+Avsnitt",mentions_person,1
+doc:54,"person:Innehållsförteckning
+Samlad",mentions_person,1
+doc:54,"person:Inledning 
+Den",mentions_person,1
+doc:54,"person:Syfte  
+Syftet",mentions_person,1
+doc:54,"person:Avgränsning 
+En",mentions_person,1
+doc:54,"person:Klimatpåverkan 
+Risk",mentions_person,1
+doc:54,"person:Miljöbalken 
+Portalparagrafen",mentions_person,1
+doc:54,person:Riksintresse Kungliga,mentions_person,1
+doc:54,person:Riksintresse Stockholms,mentions_person,1
+doc:54,"person:Kommunallagen 
+Det",mentions_person,1
+doc:54,"person:Barnkonventionen 
+Sedan",mentions_person,1
+doc:55,case:RS-2025-0760,belongs_to,1
+doc:55,topic:ai,mentions_topic,1
+doc:55,topic:budget,mentions_topic,1
+doc:55,topic:transport,mentions_topic,1
+doc:55,topic:governance,mentions_topic,1
+doc:55,"person:Stockholm 
+Besöksadress",mentions_person,1
+doc:55,"person:Innehåll 
+Innehåll",mentions_person,1
+doc:55,"person:Inledning 
+Denna",mentions_person,1
+doc:55,"person:Västra 
+Stambanan",mentions_person,1
+doc:55,person:Östra Mellansverige,mentions_person,1
+doc:55,person:Stockholm Arlanda Airport,mentions_person,1
+doc:55,"person:TEN-T-förordningen 
+De",mentions_person,1
+doc:55,"person:Underlag 
+ 
+Framtidens",mentions_person,1
+doc:55,"person:Region 
+Stockholm",mentions_person,1
+doc:55,person:Svenskt Näringsliv,mentions_person,1
+doc:55,person:Trafikförvaltningen Region Stockholm,mentions_person,1
+doc:55,person:Trafikförvaltningen Region Stockholm,mentions_person,1
+doc:55,"person:Trafikverket 
+Prioritet",mentions_person,1
+doc:55,person:Stockholm Nordost,mentions_person,1
+doc:55,person:Regional Utvecklingsplan,mentions_person,1
+doc:56,case:RS-2025-0760,belongs_to,1
+doc:56,topic:healthcare,mentions_topic,1
+doc:56,topic:transport,mentions_topic,1
+doc:56,topic:governance,mentions_topic,1
+doc:56,"person:Stockholm 
+Besöksadress",mentions_person,1
+doc:56,person:WSP Sverige AB,mentions_person,1
+doc:56,"person:Bakgrund  
+Detta",mentions_person,1
+doc:56,"person:Syfte 
+Syftet",mentions_person,1
+doc:56,"person:Läshänvisning 
+Bilagan",mentions_person,1
+doc:56,"person:Riksintressesystemet 
+Riksintressen",mentions_person,1
+doc:56,person:PM Riksintressen,mentions_person,1
+doc:56,"person:Även 
+Natura",mentions_person,1
+doc:56,"person:Stockholmsregionen  
+En",mentions_person,1
+doc:56,"person:Avgränsning 
+De",mentions_person,1
+doc:56,person:Hanteras Hanteras,mentions_person,1
+doc:56,person:Kulturmiljövården Rörligt,mentions_person,1
+doc:56,"person:Rennäring 
+Naturvården Nationalstadsparken",mentions_person,1
+doc:56,"person:Energidistribution 
+Friluftslivet Natura",mentions_person,1
+doc:56,person:Yrkesfiske  Värdefulla,mentions_person,1
+doc:57,case:RS-2025-0760,belongs_to,1
+doc:57,topic:ai,mentions_topic,1
+doc:57,topic:budget,mentions_topic,1
+doc:57,topic:healthcare,mentions_topic,1
+doc:57,topic:transport,mentions_topic,1
+doc:57,topic:governance,mentions_topic,1
+doc:57,"person:Stockholmsregionen 
+Europas",mentions_person,1
+doc:57,"person:Michaela Haga 
+Ordförande",mentions_person,1
+doc:57,"person:Innehåll 
+ 
+Till",mentions_person,1
+doc:57,person:VÅR VISION,mentions_person,1
+doc:57,"person:Region 
+Stockholms",mentions_person,1
+doc:57,person:DEN REGIONALA  UTVECKLINGSPLANEN,mentions_person,1
+doc:57,"person:Region 
+Stockholm",mentions_person,1
+doc:57,person:Sveriges BNP,mentions_person,1
+doc:57,"person:Mellansverige  
+Stockholmsregionen",mentions_person,1
+doc:57,"person:Mellansverige  
+ 
+ 
+Stockholmsregionens",mentions_person,1
+doc:57,person:Utbildning SCB,mentions_person,1
+doc:57,person:Sveriges BNP,mentions_person,1
+doc:57,person:Silicon Valley,mentions_person,1
+doc:57,"person:NÄRINGSLIVETS STYRKEOMRÅDEN 
+Branscher",mentions_person,1
+doc:57,person:Karolinska Universitetssjukhuset,mentions_person,1
+doc:58,case:RS-2025-0760,belongs_to,1
+doc:58,topic:ai,mentions_topic,1
+doc:58,topic:budget,mentions_topic,1
+doc:58,topic:healthcare,mentions_topic,1
+doc:58,topic:transport,mentions_topic,1
+doc:58,topic:governance,mentions_topic,1
+doc:58,"person:Stockholmsregionen 
+ 
+ 
+ 
+   
+ 
+ 
+  
+  
+Region Stockholm",mentions_person,1
+doc:58,"person:Regionledningskontoret
+Box",mentions_person,1
+doc:58,"person:Stockholm
+Besöksadress",mentions_person,1
+doc:58,person:Bilaga Riksintressen,mentions_person,1
+doc:58,person:Bilaga Demografiskt,mentions_person,1
+doc:58,person:Bilaga Hållbarhetsbedömning,mentions_person,1
+doc:58,person:Bilaga Långsiktiga,mentions_person,1
+doc:58,"person:Inledning 
+Den",mentions_person,1
+doc:58,"person:Sammanfattning 
+Under",mentions_person,1
+doc:58,"person:Region 
+Stockholm",mentions_person,1
+doc:58,"person:Region 
+Stockholms",mentions_person,1
+doc:58,person:Bilaga Riksintressen,mentions_person,1
+doc:58,person:Bilaga Demografiskt,mentions_person,1
+doc:58,person:Bilaga Hållbarhetsbedömning,mentions_person,1
+doc:58,person:Bilaga Transportsystemets,mentions_person,1
+doc:59,case:RS-2025-0760,belongs_to,1
+doc:59,topic:budget,mentions_topic,1
+doc:59,topic:healthcare,mentions_topic,1
+doc:59,topic:transport,mentions_topic,1
+doc:59,topic:governance,mentions_topic,1
+doc:59,"person:Regionledningskontoret  TJÄNSTEUTLÅTANDE  
+Jenny",mentions_person,1
+doc:59,person:Carlsson Widell,mentions_person,1
+doc:59,"person:Stockholmsregionen 
+ 
+Regionledningskontorets",mentions_person,1
+doc:59,"person:Region 
+Stockholms",mentions_person,1
+doc:59,"person:Sammanfattning 
+Den",mentions_person,1
+doc:59,person:TJÄNSTEUTLÅTANDE RS,mentions_person,1
+doc:59,"person:Bakgrund 
+Den",mentions_person,1
+doc:59,person:TJÄNSTEUTLÅTANDE RS,mentions_person,1
+doc:59,"person:Region 
+Stockholm",mentions_person,1
+doc:59,person:TJÄNSTEUTLÅTANDE RS,mentions_person,1
+doc:59,person:TJÄNSTEUTLÅTANDE RS,mentions_person,1
+doc:59,"person:Region 
+Stockholms",mentions_person,1
+doc:59,person:TJÄNSTEUTLÅTANDE RS,mentions_person,1
+doc:59,person:TJÄNSTEUTLÅTANDE RS,mentions_person,1
+doc:59,"person:Region 
+Stockholm",mentions_person,1
+doc:60,case:RS-2025-0760,belongs_to,1
+doc:60,topic:budget,mentions_topic,1
+doc:60,topic:healthcare,mentions_topic,1
+doc:60,topic:transport,mentions_topic,1
+doc:60,topic:governance,mentions_topic,1
+doc:60,person:PROTOKOLLSUTDRAG RS,mentions_person,1
+doc:60,person:Ordförande Justerare Exp,mentions_person,1
+doc:60,"person:Stockholmsregionen 
+RS",mentions_person,1
+doc:60,"person:Sammanfattning 
+Den",mentions_person,1
+doc:60,"person:Region 
+Stockholm",mentions_person,1
+doc:60,"person:Stockholmsregionen 
+ 
+ 
+Yrkanden 
+Ordförande",mentions_person,1
+doc:60,person:Michaela Haga,mentions_person,1
+doc:60,person:Leif Gripestam,mentions_person,1
+doc:60,person:PROTOKOLLSUTDRAG RS,mentions_person,1
+doc:60,person:Ordförande Justerare Exp,mentions_person,1
+doc:60,"person:Beslutsgång 
+Ordförande Michaela",mentions_person,1
+doc:60,"person:Beslut 
+Infrastruktur",mentions_person,1
+doc:60,person:Ledamoten Samuel Stephan,mentions_person,1
+doc:60,person:Leif Gripestam,mentions_person,1
+doc:60,person:Ledamoten Anna Sehlin,mentions_person,1
+doc:61,case:RS-2025-0760,belongs_to,1
+doc:61,topic:ai,mentions_topic,1
+doc:61,topic:budget,mentions_topic,1
+doc:61,topic:healthcare,mentions_topic,1
+doc:61,topic:transport,mentions_topic,1
+doc:61,topic:governance,mentions_topic,1
+doc:61,"person:Regionstyrelsen 
+PROTOKOLLSUTDRAG RS",mentions_person,1
+doc:61,person:Ordförande Justerare Exp,mentions_person,1
+doc:61,"person:Stockholmsregionen 
+RS",mentions_person,1
+doc:61,"person:Sammanfattning 
+Den",mentions_person,1
+doc:61,"person:Stockholmsregionen 
+ 
+Yrkanden 
+Ordförande",mentions_person,1
+doc:61,person:Aida Hadzialic,mentions_person,1
+doc:61,person:Ledamoten Axel Conradi,mentions_person,1
+doc:61,person:Carl-Johan Schiller,mentions_person,1
+doc:61,person:Ledamoten Msciwoj Swigon,mentions_person,1
+doc:61,"person:Beslutsgång 
+Ordförande Aida",mentions_person,1
+doc:61,"person:Beslut 
+Regionstyrelsen",mentions_person,1
+doc:61,"person:Regionstyrelsen 
+PROTOKOLLSUTDRAG RS",mentions_person,1
+doc:61,person:Ordförande Justerare Exp,mentions_person,1
+doc:61,"person:Reservation 
+Ledamoten Axel",mentions_person,1
+doc:61,person:Carl-Johan Schiller,mentions_person,1
+doc:62,case:RS-2026-0211,belongs_to,1
+doc:62,topic:ai,mentions_topic,1
+doc:62,topic:budget,mentions_topic,1
+doc:62,topic:healthcare,mentions_topic,1
+doc:62,topic:governance,mentions_topic,1
+doc:62,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:62,person:Kristoffer Tamsons,mentions_person,1
+doc:62,person:Moderaterna INTERPELLATION,mentions_person,1
+doc:62,"person:Region 
+Stockholm",mentions_person,1
+doc:62,"person:Kristoffer Tamsons 
+Moderaterna",mentions_person,1
+doc:63,case:RS-2026-0211,belongs_to,1
+doc:63,topic:ai,mentions_topic,1
+doc:63,topic:budget,mentions_topic,1
+doc:63,topic:healthcare,mentions_topic,1
+doc:63,topic:transport,mentions_topic,1
+doc:63,topic:governance,mentions_topic,1
+doc:63,"person:Finansregionrådet 
+Aida",mentions_person,1
+doc:63,person:Kristoffer Tamsons,mentions_person,1
+doc:63,person:Kristoffer Tamsons,mentions_person,1
+doc:63,"person:Region 
+Stockholm",mentions_person,1

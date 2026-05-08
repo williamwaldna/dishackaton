@@ -1,0 +1,821 @@
+id,label,type,meeting_date,case_id,document_type,path
+doc:0,Kallelse_med_dagordning_till_regionfullmäktiges_sammanträde_den_5_maj_2026,document,2026-05-05,unknown_case,document,/home/demo/data/2026-05-05/0._Kallelse_med_dagordning_för_regionfullmäktiges_sammanträde_den_5_maj_2026/Kallelse_med_dagordning_till_regionfullmäktiges_sammanträde_den_5_maj_2026.pdf
+case:unknown_case,unknown_case,case,,,,
+topic:ai,ai,topic,,,,
+topic:budget,budget,topic,,,,
+topic:healthcare,healthcare,topic,,,,
+topic:transport,transport,topic,,,,
+topic:governance,governance,topic,,,,
+"person:Regionfullmäktige 
+ 
+KALLELSE","Regionfullmäktige 
+ 
+KALLELSE",person,,,,
+person:DAGORDNING  RS,DAGORDNING  RS,person,,,,
+person:Plats Landstingshuset,Plats Landstingshuset,person,,,,
+"person:Stockholm  
+ Ingång","Stockholm  
+ Ingång",person,,,,
+person:Mikael Sundesten,Mikael Sundesten,person,,,,
+"person:Regionfullmäktige 
+ 
+Dagordning","Regionfullmäktige 
+ 
+Dagordning",person,,,,
+person:Amelie Tarschys Ingre,Amelie Tarschys Ingre,person,,,,
+person:Kristoffer Tamsons,Kristoffer Tamsons,person,,,,
+person:Axel Conradi,Axel Conradi,person,,,,
+"person:Life Science-hub  
+ RS","Life Science-hub  
+ RS",person,,,,
+person:Karl Henriksson,Karl Henriksson,person,,,,
+doc:1,Tilläggslista_till_regionfullmäktige_den_5_maj_2026,document,2026-05-05,unknown_case,document,/home/demo/data/2026-05-05/0._Kallelse_med_dagordning_för_regionfullmäktiges_sammanträde_den_5_maj_2026/Tilläggslista_till_regionfullmäktige_den_5_maj_2026.pdf
+person:Charlotte Broberg,Charlotte Broberg,person,,,,
+person:Carl-Johan Schiller,Carl-Johan Schiller,person,,,,
+person:Daniel Dronjak,Daniel Dronjak,person,,,,
+"person:Tvärförbindelse 
+Södertörn 
+RS","Tvärförbindelse 
+Södertörn 
+RS",person,,,,
+person:Anna Malm Kelfve,Anna Malm Kelfve,person,,,,
+person:Maria Leissner,Maria Leissner,person,,,,
+person:Pär Hommerberg,Pär Hommerberg,person,,,,
+doc:2,Interpellation_2026_11_av_Susanne_Sjöblom_(M)_om_Region_Stockholms_jämlika_regler_för_blodgivning_oavsett_sexuell_läggning,document,2026-05-05,RS-2026-0210,interpellation,/home/demo/data/2026-05-05/10._Bordlagd_interpellation_2026_11_av_Susanne_Sjöblom_(M)_om_Region_Stockholms_jämlika_regler_för_blodgivning_oavsett_sexuell_läggning_RS_2026-0210/Interpellation_2026_11_av_Susanne_Sjöblom_(M)_om_Region_Stockholms_jämlika_regler_för_blodgivning_oavsett_sexuell_läggning.pdf
+case:RS-2026-0210,RS-2026-0210,case,,,,
+"person:Moderaterna 
+INTERPELLATION","Moderaterna 
+INTERPELLATION",person,,,,
+person:Susanne Sjöblom,Susanne Sjöblom,person,,,,
+"person:Region 
+Stockholms","Region 
+Stockholms",person,,,,
+person:Enligt Socialstyrelsen,Enligt Socialstyrelsen,person,,,,
+person:Region Skåne,Region Skåne,person,,,,
+person:Moderaterna  INTERPELLATION,Moderaterna  INTERPELLATION,person,,,,
+"person:Susanne Sjöblom 
+Moderaterna","Susanne Sjöblom 
+Moderaterna",person,,,,
+doc:3,Svar_på_interpellation_2026_11_av_Susanne_Sjöblom_(M)_om_Region_Stockholms_jämlika_regler_för_blodgivning_oavsett_sexuell_läggning,document,2026-05-05,RS-2026-0210,interpellation,/home/demo/data/2026-05-05/10._Bordlagd_interpellation_2026_11_av_Susanne_Sjöblom_(M)_om_Region_Stockholms_jämlika_regler_för_blodgivning_oavsett_sexuell_läggning_RS_2026-0210/Svar_på_interpellation_2026_11_av_Susanne_Sjöblom_(M)_om_Region_Stockholms_jämlika_regler_för_blodgivning_oavsett_sexuell_läggning.pdf
+person:Talla Alkurdi,Talla Alkurdi,person,,,,
+person:RS RS,RS RS,person,,,,
+person:Att Region Skåne,Att Region Skåne,person,,,,
+person:Rädda Liv,Rädda Liv,person,,,,
+doc:4,Interpellation_2026_14_av_Susanne_Sjöblom_(M)_om_självprovtagning_för_HPV_och_uteblivna_kallelser_till_kvinnor_som_inte_genomför_testet_samt_uppföljning,document,2026-05-05,RS-2026-0213,interpellation,/home/demo/data/2026-05-05/11._Bordlagd_interpellation_2026_14_av_Susanne_Sjöblom_(M)_om_självprovtagning_för_HPV_och_uteblivna_kallelser_till_kvinnor_som_inte_genomför_testet_samt_uppföljning_RS_2026-0213/Interpellation_2026_14_av_Susanne_Sjöblom_(M)_om_självprovtagning_för_HPV_och_uteblivna_kallelser_till_kvinnor_som_inte_genomför_testet_samt_uppföljning.pdf
+case:RS-2026-0213,RS-2026-0213,case,,,,
+person:Om Region Stockholm,Om Region Stockholm,person,,,,
+doc:5,Svar_på_interpellation_2026_14_av_Susanne_Sjöblom_(M)_om_självprovtagning_för_HPV_och_uteblivna_kallelser_till_kvinnor_som_inte_genomför_testet_samt_uppföljning,document,2026-05-05,RS-2026-0213,interpellation,/home/demo/data/2026-05-05/11._Bordlagd_interpellation_2026_14_av_Susanne_Sjöblom_(M)_om_självprovtagning_för_HPV_och_uteblivna_kallelser_till_kvinnor_som_inte_genomför_testet_samt_uppföljning_RS_2026-0213/Svar_på_interpellation_2026_14_av_Susanne_Sjöblom_(M)_om_självprovtagning_för_HPV_och_uteblivna_kallelser_till_kvinnor_som_inte_genomför_testet_samt_uppföljning.pdf
+person:Regionalt Cancercentrum,Regionalt Cancercentrum,person,,,,
+person:Stockholm Gotland,Stockholm Gotland,person,,,,
+doc:6,Interpellation_2026_15_av_Tobias_Nässén_(M)_om_vem_som_tar_ansvaret_när_ingen_gör_det,document,2026-05-05,RS-2026-0214,interpellation,/home/demo/data/2026-05-05/12._Bordlagd_interpellation_2026_15_av_Tobias_Nässén_(M)_om_vem_som_tar_ansvaret_när_ingen_gör_det_RS_2026-0214/Interpellation_2026_15_av_Tobias_Nässén_(M)_om_vem_som_tar_ansvaret_när_ingen_gör_det.pdf
+case:RS-2026-0214,RS-2026-0214,case,,,,
+person:Moderaterna INTERPELLATION,Moderaterna INTERPELLATION,person,,,,
+person:Mötesplats Nacka,Mötesplats Nacka,person,,,,
+"person:Moderaterna 
+ 
+INTERPELLATION","Moderaterna 
+ 
+INTERPELLATION",person,,,,
+"person:Nacka 
+Centrum","Nacka 
+Centrum",person,,,,
+person:Nacka Centrum,Nacka Centrum,person,,,,
+doc:7,Svar_på_interpellation_2026_15_av_Tobias_Nässén_(M)_om_vem_som_tar_ansvaret_när_ingen_gör_det,document,2026-05-05,RS-2026-0214,interpellation,/home/demo/data/2026-05-05/12._Bordlagd_interpellation_2026_15_av_Tobias_Nässén_(M)_om_vem_som_tar_ansvaret_när_ingen_gör_det_RS_2026-0214/Svar_på_interpellation_2026_15_av_Tobias_Nässén_(M)_om_vem_som_tar_ansvaret_när_ingen_gör_det.pdf
+"person:Investeringsregionrådet 
+Jens Sjöström","Investeringsregionrådet 
+Jens Sjöström",person,,,,
+person:Jens Sjöström,Jens Sjöström,person,,,,
+doc:8,Interpellation_2026_21_av_Amelie_Tarschys_Ingre_(L)_om_ett_pilotprojekt_för_brukarrum,document,2026-05-05,RS-2026-0368,interpellation,/home/demo/data/2026-05-05/14._Interpellation_2026_21_av_Amelie_Tarschys_Ingre_(L)_om_ett_pilotprojekt_för_brukarrum_RS_2026-0368/Interpellation_2026_21_av_Amelie_Tarschys_Ingre_(L)_om_ett_pilotprojekt_för_brukarrum.pdf
+case:RS-2026-0368,RS-2026-0368,case,,,,
+person:Karolinska Institutet,Karolinska Institutet,person,,,,
+"person:Region 
+Stockholm","Region 
+Stockholm",person,,,,
+doc:9,Svar_på_interpellation_2026_21_av_Amelie_Tarschys_Ingre_(L)_om_ett_pilotprojekt_för_brukarrum,document,2026-05-05,RS-2026-0368,interpellation,/home/demo/data/2026-05-05/14._Interpellation_2026_21_av_Amelie_Tarschys_Ingre_(L)_om_ett_pilotprojekt_för_brukarrum_RS_2026-0368/Svar_på_interpellation_2026_21_av_Amelie_Tarschys_Ingre_(L)_om_ett_pilotprojekt_för_brukarrum.pdf
+person:Sandra Ivanovic Rubin,Sandra Ivanovic Rubin,person,,,,
+"person:Amelie Tarschys 
+Ingre","Amelie Tarschys 
+Ingre",person,,,,
+doc:10,Interpellation_2026_22_av_Axel_Conradi_(M)_om_de_växande_vårdköerna_i_Region_Stockholm,document,2026-05-05,RS-2026-0369,interpellation,/home/demo/data/2026-05-05/15._Interpellation_2026_22_av_Axel_Conradi_(M)_om_de_växande_vårdköerna_i_Region_Stockholm_RS_2026-0369/Interpellation_2026_22_av_Axel_Conradi_(M)_om_de_växande_vårdköerna_i_Region_Stockholm.pdf
+case:RS-2026-0369,RS-2026-0369,case,,,,
+"person:Axel Conradi 
+Moderaterna","Axel Conradi 
+Moderaterna",person,,,,
+doc:11,Svar_på_interpellation_2026_22_av_Axel_Conradi_(M)_om_de_växande_vårdköerna_i_Region_Stockholm,document,2026-05-05,RS-2026-0369,interpellation,/home/demo/data/2026-05-05/15._Interpellation_2026_22_av_Axel_Conradi_(M)_om_de_växande_vårdköerna_i_Region_Stockholm_RS_2026-0369/Svar_på_interpellation_2026_22_av_Axel_Conradi_(M)_om_de_växande_vårdköerna_i_Region_Stockholm.pdf
+"person:Västra 
+Götalandsregionen","Västra 
+Götalandsregionen",person,,,,
+person:För Mittenkoalitionen,För Mittenkoalitionen,person,,,,
+doc:12,Interpellation_2026_27_av_Pär_Hommerberg_(L)_om_dövas_rätt_till_teckenspråkstolk_i_vården,document,2026-05-05,RS-2026-0374,interpellation,/home/demo/data/2026-05-05/17._Interpellation_2026_27_av_Pär_Hommerberg_(L)_om_dövas_rätt_till_teckenspråkstolk_RS_2026-0374/Interpellation_2026_27_av_Pär_Hommerberg_(L)_om_dövas_rätt_till_teckenspråkstolk_i_vården.pdf
+case:RS-2026-0374,RS-2026-0374,case,,,,
+person:Diskrimineringsombudsmannen DO,Diskrimineringsombudsmannen DO,person,,,,
+"person:Pär Hommerberg 
+Liberalerna","Pär Hommerberg 
+Liberalerna",person,,,,
+doc:13,Svar_på_interpellation_2026_27_av_Pär_Hommerberg_(L)_om_dövas_rätt_till_teckenspråkstolk_i_vården,document,2026-05-05,RS-2026-0374,interpellation,/home/demo/data/2026-05-05/17._Interpellation_2026_27_av_Pär_Hommerberg_(L)_om_dövas_rätt_till_teckenspråkstolk_RS_2026-0374/Svar_på_interpellation_2026_27_av_Pär_Hommerberg_(L)_om_dövas_rätt_till_teckenspråkstolk_i_vården.pdf
+"person:Region
+Stockholm","Region
+Stockholm",person,,,,
+doc:14,"Interpellation_2026_28_av_Charlotte_Broberg_(M)_om_vård_för_alla,_även_för_de_med_svåra_diagnoser_och_tillstånd_som_exempelvis_ME",document,2026-05-05,RS-2026-0375,interpellation,"/home/demo/data/2026-05-05/18._Interpellation_2026_28_av_Charlotte_Broberg_(M)_om_vård_för_alla,_även_för_de_med_svåra_diagnoser_och_tillstånd_som_exempelvis_ME_RS_2026-0375/Interpellation_2026_28_av_Charlotte_Broberg_(M)_om_vård_för_alla,_även_för_de_med_svåra_diagnoser_och_tillstånd_som_exempelvis_ME.pdf"
+case:RS-2026-0375,RS-2026-0375,case,,,,
+"person:ME 
+  
+Den","ME 
+  
+Den",person,,,,
+"person:RME 
+Stockholm","RME 
+Stockholm",person,,,,
+"person:Charlotte Broberg 
+Moderaterna","Charlotte Broberg 
+Moderaterna",person,,,,
+doc:15,"Svar_på_interpellation_2026_28_av_Charlotte_Broberg_(M)_om_vård_för_alla,_även_för_de_med_svåra_diagnoser_och_tillstånd_som_exempelvis_ME",document,2026-05-05,RS-2026-0375,interpellation,"/home/demo/data/2026-05-05/18._Interpellation_2026_28_av_Charlotte_Broberg_(M)_om_vård_för_alla,_även_för_de_med_svåra_diagnoser_och_tillstånd_som_exempelvis_ME_RS_2026-0375/Svar_på_interpellation_2026_28_av_Charlotte_Broberg_(M)_om_vård_för_alla,_även_för_de_med_svåra_diagnoser_och_tillstånd_som_exempelvis_ME.pdf"
+"person:ME 
+ 
+Charlotte Broberg","ME 
+ 
+Charlotte Broberg",person,,,,
+person:Karolinska Universitetssjukhuset,Karolinska Universitetssjukhuset,person,,,,
+doc:16,Interpellation_2026_16_av_Anna_Malm_Kelfve_(M)_om_hur_mer_kan_bli_mindre,document,2026-05-05,RS-2026-0363,interpellation,/home/demo/data/2026-05-05/19._Interpellation_2026_16_av_Anna_Malm_Kelfve_(M)_om_hur_mer_kan_bli_mindre_RS_2026-0363/Interpellation_2026_16_av_Anna_Malm_Kelfve_(M)_om_hur_mer_kan_bli_mindre.pdf
+case:RS-2026-0363,RS-2026-0363,case,,,,
+doc:17,Svar_på_interpellation_2026_16_av_Anna_Malm_Kelfve_(M)_om_hur_mer_kan_bli_mindre,document,2026-05-05,RS-2026-0363,interpellation,/home/demo/data/2026-05-05/19._Interpellation_2026_16_av_Anna_Malm_Kelfve_(M)_om_hur_mer_kan_bli_mindre_RS_2026-0363/Svar_på_interpellation_2026_16_av_Anna_Malm_Kelfve_(M)_om_hur_mer_kan_bli_mindre.pdf
+"person:Trafikregionråd 
+Jakop Dalunde","Trafikregionråd 
+Jakop Dalunde",person,,,,
+person:Enligt Trafikförvaltningen,Enligt Trafikförvaltningen,person,,,,
+person:Jakop Dalunde,Jakop Dalunde,person,,,,
+doc:18,"Interpellation_2026_6_av_Amelie_Tarschys_Ingre_(L)_om_styrning,_ansvar_och_öppenhet_i_Region_Stockholms_verksamheter",document,2026-05-05,RS-2026-0205,interpellation,"/home/demo/data/2026-05-05/2._Bordlagd_interpellation_2026_6_av_Amelie_Tarschys_Ingre_(L)_om_styrning,_ansvar_och_öppenhet_i_Region_Stockholms_verksamheter_RS_2026-0205/Interpellation_2026_6_av_Amelie_Tarschys_Ingre_(L)_om_styrning,_ansvar_och_öppenhet_i_Region_Stockholms_verksamheter.pdf"
+case:RS-2026-0205,RS-2026-0205,case,,,,
+doc:19,"Svar_på_interpellation_2026_6_av_Amelie_Tarschys_Ingre_(L)_om_styrning,_ansvar_och_öppenhet_i_Region_Stockholms_verksamheter",document,2026-05-05,RS-2026-0205,interpellation,"/home/demo/data/2026-05-05/2._Bordlagd_interpellation_2026_6_av_Amelie_Tarschys_Ingre_(L)_om_styrning,_ansvar_och_öppenhet_i_Region_Stockholms_verksamheter_RS_2026-0205/Svar_på_interpellation_2026_6_av_Amelie_Tarschys_Ingre_(L)_om_styrning,_ansvar_och_öppenhet_i_Region_Stockholms_verksamheter.pdf"
+"person:Finansregionrådet 
+Aida","Finansregionrådet 
+Aida",person,,,,
+"person:Nämndordförande 
+Göran Stiernstedt","Nämndordförande 
+Göran Stiernstedt",person,,,,
+person:Christophe Pedroletti,Christophe Pedroletti,person,,,,
+doc:20,Interpellation_2026_20_av_Lina_El_Yafi_(V)_om_hur_bristande_arbetsmiljö_för_bussförare_ger_sämre_service_till_resenärer_med_särskilda_behov,document,2026-05-05,RS-2026-0367,interpellation,/home/demo/data/2026-05-05/20._Interpellation_2026_20_av_Lina_El_Yafi_(V)_om_hur_bristande_arbetsmiljö_för_bussförare_ger_sämre_service_till_resenärer_med_särskilda_behov_RS_2026-0367/Interpellation_2026_20_av_Lina_El_Yafi_(V)_om_hur_bristande_arbetsmiljö_för_bussförare_ger_sämre_service_till_resenärer_med_särskilda_behov.pdf
+case:RS-2026-0367,RS-2026-0367,case,,,,
+person:Line El Yafi,Line El Yafi,person,,,,
+"person:Vanessa 
+Stjernborg","Vanessa 
+Stjernborg",person,,,,
+person:Lina El Yafi,Lina El Yafi,person,,,,
+doc:21,Svar_på_interpellation_2026_20_av_Lina_El_Yafi_(V)_om_hur_bristande_arbetsmiljö_för_bussförare_ger_sämre_service_till_resenärer_med_särskilda_behov,document,2026-05-05,RS-2026-0367,interpellation,/home/demo/data/2026-05-05/20._Interpellation_2026_20_av_Lina_El_Yafi_(V)_om_hur_bristande_arbetsmiljö_för_bussförare_ger_sämre_service_till_resenärer_med_särskilda_behov_RS_2026-0367/Svar_på_interpellation_2026_20_av_Lina_El_Yafi_(V)_om_hur_bristande_arbetsmiljö_för_bussförare_ger_sämre_service_till_resenärer_med_särskilda_behov.pdf
+"person:Trafikregionråd  
+Jakop Dalunde","Trafikregionråd  
+Jakop Dalunde",person,,,,
+doc:22,Interpellation_2026_29_av_Pär_Hommerberg_(L)_om_högtalarutropen_på_tunnelbanans_röda_linje,document,2026-05-05,RS-2026-0376,interpellation,/home/demo/data/2026-05-05/21._Interpellation_2026_29_av_Pär_Hommerberg_(L)_om_högtalarutropen_på_tunnelbanans_röda_linje_RS_2026-0376/Interpellation_2026_29_av_Pär_Hommerberg_(L)_om_högtalarutropen_på_tunnelbanans_röda_linje.pdf
+case:RS-2026-0376,RS-2026-0376,case,,,,
+doc:23,Svar_på_interpellation_2026_29_av_Pär_Hommerberg_(L)_om_högtalarutropen_på_tunnelbanans_röda_linje,document,2026-05-05,RS-2026-0376,interpellation,/home/demo/data/2026-05-05/21._Interpellation_2026_29_av_Pär_Hommerberg_(L)_om_högtalarutropen_på_tunnelbanans_röda_linje_RS_2026-0376/Svar_på_interpellation_2026_29_av_Pär_Hommerberg_(L)_om_högtalarutropen_på_tunnelbanans_röda_linje.pdf
+doc:24,Interpellation_2026_18_av_Amelie_Tarschys_Ingre_(L)_om_AI-satsningarna_i_Region_Stockholm,document,2026-05-05,RS-2026-0365,interpellation,/home/demo/data/2026-05-05/22._Interpellation_2026_18_av_Amelie_Tarschys_Ingre_(L)_om_AI-satsningarna_i_Region_Stockholm_RS_2026-0365/Interpellation_2026_18_av_Amelie_Tarschys_Ingre_(L)_om_AI-satsningarna_i_Region_Stockholm.pdf
+case:RS-2026-0365,RS-2026-0365,case,,,,
+doc:25,Svar_på_interpellation_2026_18_av_Amelie_Tarschys_Ingre_(L)_om_AI_satsningarna_i_Region_Stockholm,document,2026-05-05,RS-2026-0365,interpellation,/home/demo/data/2026-05-05/22._Interpellation_2026_18_av_Amelie_Tarschys_Ingre_(L)_om_AI-satsningarna_i_Region_Stockholm_RS_2026-0365/Svar_på_interpellation_2026_18_av_Amelie_Tarschys_Ingre_(L)_om_AI_satsningarna_i_Region_Stockholm.pdf
+"person:Finansregionråd 
+Aida","Finansregionråd 
+Aida",person,,,,
+person:Tarschys Ingre,Tarschys Ingre,person,,,,
+person:Från Alfred Nobels,Från Alfred Nobels,person,,,,
+person:Regional AI,Regional AI,person,,,,
+person:Digital Futures,Digital Futures,person,,,,
+person:AI Sweden,AI Sweden,person,,,,
+doc:26,Interpellation_2026_17_av_Anna_Sehlin_(V)_om_åtgärder_för_att_nå_Sveriges_transportmål_för_2030,document,2026-05-05,RS-2026-0364,interpellation,/home/demo/data/2026-05-05/23._Interpellation_2026_17_av_Anna_Sehlin_(V)_om_åtgärder_för_att_nå_Sveriges_transportmål_för_2030_RS_2026-0364/Interpellation_2026_17_av_Anna_Sehlin_(V)_om_åtgärder_för_att_nå_Sveriges_transportmål_för_2030.pdf
+case:RS-2026-0364,RS-2026-0364,case,,,,
+person:Anna Sehlin,Anna Sehlin,person,,,,
+person:IVL Svenska Miljöinstitutet,IVL Svenska Miljöinstitutet,person,,,,
+person:Enligt IVL,Enligt IVL,person,,,,
+doc:27,Svar_på_interpellation_2026_17_av_Anna_Sehlin_(V)_om_åtgärder_för_att_nå_Sveriges_transportmål_för_2030,document,2026-05-05,RS-2026-0364,interpellation,/home/demo/data/2026-05-05/23._Interpellation_2026_17_av_Anna_Sehlin_(V)_om_åtgärder_för_att_nå_Sveriges_transportmål_för_2030_RS_2026-0364/Svar_på_interpellation_2026_17_av_Anna_Sehlin_(V)_om_åtgärder_för_att_nå_Sveriges_transportmål_för_2030.pdf
+person:Märta Martin-Granlund,Märta Martin-Granlund,person,,,,
+doc:28,Interpellation_2026_23_av_Amelie_Tarschys_Ingre_(L)_om_genomförandet_av_handlingsplan_för_fast_läkarkontakt,document,2026-05-05,RS-2026-0370,interpellation,/home/demo/data/2026-05-05/24._Interpellation_2026_23_av_Amelie_Tarschys_Ingre_(L)_om_genomförandet_av_handlingsplan_för_fast_läkarkontakt_RS_2026-0370/Interpellation_2026_23_av_Amelie_Tarschys_Ingre_(L)_om_genomförandet_av_handlingsplan_för_fast_läkarkontakt.pdf
+case:RS-2026-0370,RS-2026-0370,case,,,,
+person:Som Liberalerna,Som Liberalerna,person,,,,
+doc:29,Svar_på_interpellation_2026_23_av_Amelie_Tarschys_Ingre_(L)_om_genomförandet_av_handlingsplanen_för_fast_läkarkontakt,document,2026-05-05,RS-2026-0370,interpellation,/home/demo/data/2026-05-05/24._Interpellation_2026_23_av_Amelie_Tarschys_Ingre_(L)_om_genomförandet_av_handlingsplan_för_fast_läkarkontakt_RS_2026-0370/Svar_på_interpellation_2026_23_av_Amelie_Tarschys_Ingre_(L)_om_genomförandet_av_handlingsplanen_för_fast_läkarkontakt.pdf
+"person:Primärvårdsregionråd 
+Christine Lorne","Primärvårdsregionråd 
+Christine Lorne",person,,,,
+person:Att ListOn,Att ListOn,person,,,,
+person:Christine Lorne,Christine Lorne,person,,,,
+doc:30,Interpellation_2026_31_av_Peter_Ohlsson_(M)_om_hur_vi_garanterar_en_patientnämnd_som_står_på_patienternas_sida_och_inte_den_politiska_ledningens,document,2026-05-05,RS-2026-0378,interpellation,/home/demo/data/2026-05-05/25._Interpellation_2026_31_av_Peter_Ohlsson_(M)_om_hur_vi_garanterar_en_patientnämnd_som_står_på_patienternas_sida_och_inte_den_politiska_ledningens_RS_2026-0378/Interpellation_2026_31_av_Peter_Ohlsson_(M)_om_hur_vi_garanterar_en_patientnämnd_som_står_på_patienternas_sida_och_inte_den_politiska_ledningens.pdf
+case:RS-2026-0378,RS-2026-0378,case,,,,
+person:Peter Ohlsson,Peter Ohlsson,person,,,,
+"person:Peter Ohlsson 
+Moderaterna","Peter Ohlsson 
+Moderaterna",person,,,,
+doc:31,Svar_på_interpellation_2026_31_av_Peter_Ohlsson_(M)_om_hur_vi_garanterar_en_patientnämnd_som_står_på_patienternas_sida_och_inte_den_politiska_ledningens,document,2026-05-05,RS-2026-0378,interpellation,/home/demo/data/2026-05-05/25._Interpellation_2026_31_av_Peter_Ohlsson_(M)_om_hur_vi_garanterar_en_patientnämnd_som_står_på_patienternas_sida_och_inte_den_politiska_ledningens_RS_2026-0378/Svar_på_interpellation_2026_31_av_Peter_Ohlsson_(M)_om_hur_vi_garanterar_en_patientnämnd_som_står_på_patienternas_sida_och_inte_den_politiska_ledningens.pdf
+person:Sensitive Information,Sensitive Information,person,,,,
+"person:Karolinska 
+Universitetssjukhuset","Karolinska 
+Universitetssjukhuset",person,,,,
+person:Angående IVO-rapporten,Angående IVO-rapporten,person,,,,
+doc:32,Interpellation_2026_26_av_Charlotte_Broberg_(M)_om_stora_brister_och_svårigheter_att_få_tillfredställande_psykiatrisk_vård_i_region_Stockholm,document,2026-05-05,RS-2026-0373,interpellation,/home/demo/data/2026-05-05/26._Interpellation_2026_26_av_Charlotte_Broberg_(M)_om_stora_brister_och_svårigheter_att_få_tillfredställande_psykiatrisk_vård_i_region_Stockholm_RS_2026-0373/Interpellation_2026_26_av_Charlotte_Broberg_(M)_om_stora_brister_och_svårigheter_att_få_tillfredställande_psykiatrisk_vård_i_region_Stockholm.pdf
+case:RS-2026-0373,RS-2026-0373,case,,,,
+"person:Stockholm 
+  
+De","Stockholm 
+  
+De",person,,,,
+"person:Från 
+Moderaterna","Från 
+Moderaterna",person,,,,
+person:Sankt Görans,Sankt Görans,person,,,,
+doc:33,Svar_på_interpellation_2026_26_av_Charlotte_Broberg_(M)_om_stora_brister_och_svårigheter_att_få_tillfredställande_psykiatrisk_vård_i_region_Stockholm,document,2026-05-05,RS-2026-0373,interpellation,/home/demo/data/2026-05-05/26._Interpellation_2026_26_av_Charlotte_Broberg_(M)_om_stora_brister_och_svårigheter_att_få_tillfredställande_psykiatrisk_vård_i_region_Stockholm_RS_2026-0373/Svar_på_interpellation_2026_26_av_Charlotte_Broberg_(M)_om_stora_brister_och_svårigheter_att_få_tillfredställande_psykiatrisk_vård_i_region_Stockholm.pdf
+"person:Stockholm  
+ 
+ 
+Charlotte Broberg","Stockholm  
+ 
+ 
+Charlotte Broberg",person,,,,
+person:För SLSO,För SLSO,person,,,,
+person:Såväl SLSO,Såväl SLSO,person,,,,
+person:RPO Psykisk,RPO Psykisk,person,,,,
+doc:34,Interpellation_2026_25_av_Maria_Leissner_(L)_om_Stockholms_länsmuseum_och_möjligheten_till_pop_up-verksamhet,document,2026-05-05,RS-2026-0372,interpellation,/home/demo/data/2026-05-05/27._Interpellation_2026_25_av_Maria_Leissner_(L)_om_Stockholms_länsmuseum_och_möjligheten_till_pop_up-verksamhet_RS_2026-0372/Interpellation_2026_25_av_Maria_Leissner_(L)_om_Stockholms_länsmuseum_och_möjligheten_till_pop_up-verksamhet.pdf
+case:RS-2026-0372,RS-2026-0372,case,,,,
+"person:Maria Leissner  
+Liberalerna","Maria Leissner  
+Liberalerna",person,,,,
+doc:35,Svar_på_interpellation_2026_25_av_Maria_Leissner_(L)_om_Stockholms_länsmuseum_och_möjligheten_till_pop_up-verksamhet,document,2026-05-05,RS-2026-0372,interpellation,/home/demo/data/2026-05-05/27._Interpellation_2026_25_av_Maria_Leissner_(L)_om_Stockholms_länsmuseum_och_möjligheten_till_pop_up-verksamhet_RS_2026-0372/Svar_på_interpellation_2026_25_av_Maria_Leissner_(L)_om_Stockholms_länsmuseum_och_möjligheten_till_pop_up-verksamhet.pdf
+"person:Personalregionråd 
+Robert Johansson","Personalregionråd 
+Robert Johansson",person,,,,
+person:Robert Johansson,Robert Johansson,person,,,,
+doc:36,Interpellation_2026_30_av_Leif_Gripestam_(M)_om_hur_Aida_Hadžialić_(S)_ämnar_säkra_att_implementeringen_av_nytt_huvudjournalsystem_går_felfritt_med_anledning_av_haverierna_runtom_i_Sverige,document,2026-05-05,unknown_case,interpellation,/home/demo/data/2026-05-05/28._Interpellation_2026_30_av_Leif_Gripestam_(M)_om_hur_Aida_Hadžialić_(S)_ämnar_säkra_att_implementeringen_av_nytt_huvudjournalsystem_går_felfritt_med_anledning_av_haverierna_runtom_i_Sverige_RS_2026/Interpellation_2026_30_av_Leif_Gripestam_(M)_om_hur_Aida_Hadžialić_(S)_ämnar_säkra_att_implementeringen_av_nytt_huvudjournalsystem_går_felfritt_med_anledning_av_haverierna_runtom_i_Sverige.pdf
+person:Leif Gripestam,Leif Gripestam,person,,,,
+"person:Sverige 
+ 
+Under","Sverige 
+ 
+Under",person,,,,
+person:Cambio Healthcare Systems,Cambio Healthcare Systems,person,,,,
+person:Take Care,Take Care,person,,,,
+person:Regionerna Blekinge,Regionerna Blekinge,person,,,,
+person:Familjeläkaren Marija Kramar,Familjeläkaren Marija Kramar,person,,,,
+person:Region Gävleborg,Region Gävleborg,person,,,,
+person:Region Halland,Region Halland,person,,,,
+person:Dagens Medicin,Dagens Medicin,person,,,,
+"person:Sveriges 
+Radio","Sveriges 
+Radio",person,,,,
+"person:Leif Gripestam 
+Moderaterna","Leif Gripestam 
+Moderaterna",person,,,,
+doc:37,Svar_på_interpellation_2026_30_Interpellation_av_Leif_Gripestam_(M)_om_hur_Aida_Hadžialić_(S)_ämnar_säkra_att_implementeringen_av_nytt_huvudjournalsystem_går_felfritt_med_anledning_av_haverierna_runto,document,2026-05-05,unknown_case,interpellation,/home/demo/data/2026-05-05/28._Interpellation_2026_30_av_Leif_Gripestam_(M)_om_hur_Aida_Hadžialić_(S)_ämnar_säkra_att_implementeringen_av_nytt_huvudjournalsystem_går_felfritt_med_anledning_av_haverierna_runtom_i_Sverige_RS_2026/Svar_på_interpellation_2026_30_Interpellation_av_Leif_Gripestam_(M)_om_hur_Aida_Hadžialić_(S)_ämnar_säkra_att_implementeringen_av_nytt_huvudjournalsystem_går_felfritt_med_anledning_av_haverierna_runto.pdf
+"person:Leif 
+Gripestam","Leif 
+Gripestam",person,,,,
+"person:Sverige 
+ 
+Leif Gripenstam","Sverige 
+ 
+Leif Gripenstam",person,,,,
+doc:38,Frågor_till_regionfullmäktiges_frågestund_den_5_maj_2026,document,2026-05-05,unknown_case,document,/home/demo/data/2026-05-05/29._Frågestund_mellan_klockan_12.00_och_13.15/Frågor_till_regionfullmäktiges_frågestund_den_5_maj_2026.pdf
+person:Tony Björklund,Tony Björklund,person,,,,
+person:Britt-Mari Canhasi,Britt-Mari Canhasi,person,,,,
+doc:39,Interpellation_2026_9_av_Amelie_Tarschys_Ingre_(L)_om_82_miljoner_kronor_i_tillskott_till_regionens_beredskapsarbete,document,2026-05-05,RS-2026-0208,interpellation,/home/demo/data/2026-05-05/3._Bordlagd_interpellation_2026_9_av_Amelie_Tarschys_Ingre_(L)_om_82_miljoner_kronor_i_tillskott_till_regionens_beredskapsarbete_RS_2026-0208/Interpellation_2026_9_av_Amelie_Tarschys_Ingre_(L)_om_82_miljoner_kronor_i_tillskott_till_regionens_beredskapsarbete.pdf
+case:RS-2026-0208,RS-2026-0208,case,,,,
+person:Aida Hadzialic,Aida Hadzialic,person,,,,
+doc:40,Svar_på_interpellation_2026_9_av_Amelie_Tarschys_Ingre_(L)_om_82_miljoner_kronor_i_tillskott_till_regionens_beredskapsarbete,document,2026-05-05,RS-2026-0208,interpellation,/home/demo/data/2026-05-05/3._Bordlagd_interpellation_2026_9_av_Amelie_Tarschys_Ingre_(L)_om_82_miljoner_kronor_i_tillskott_till_regionens_beredskapsarbete_RS_2026-0208/Svar_på_interpellation_2026_9_av_Amelie_Tarschys_Ingre_(L)_om_82_miljoner_kronor_i_tillskott_till_regionens_beredskapsarbete.pdf
+person:För Locum,För Locum,person,,,,
+person:Inom Trafikförvaltningen,Inom Trafikförvaltningen,person,,,,
+doc:41,Valskrivelse_5_maj_2026,document,2026-05-05,RS-2026-0051,document,/home/demo/data/2026-05-05/32._Valberedningens_förslag_RS_2026-0051/Valskrivelse_5_maj_2026.pdf
+case:RS-2026-0051,RS-2026-0051,case,,,,
+"person:Valärenden 
+Befrielser","Valärenden 
+Befrielser",person,,,,
+person:Johanna Wistrand,Johanna Wistrand,person,,,,
+person:Kurt-Erik Thorild,Kurt-Erik Thorild,person,,,,
+person:Övervakningsnämnden Stockholm Söder,Övervakningsnämnden Stockholm Söder,person,,,,
+"person:Anna-Lena 
+Österberg","Anna-Lena 
+Österberg",person,,,,
+person:Tove Sander,Tove Sander,person,,,,
+doc:42,Bilaga_-_Förslag_till_nominering_av_ordförande_och_ledamöter_i_styrelserna_för_Region_Stockholms_bolag,document,2026-05-05,RS-2025-0986,proposal,/home/demo/data/2026-05-05/33._Val_av_ledamöter_till_Region_Stockholms_hel-_och_delägda_bolag_samt_nominering_till_Tiohundra_AB_RS_2025-0986/Bilaga_-_Förslag_till_nominering_av_ordförande_och_ledamöter_i_styrelserna_för_Region_Stockholms_bolag.pdf
+case:RS-2025-0986,RS-2025-0986,case,,,,
+"person:Regionledningskontoret 
+Elisabet Angelov","Regionledningskontoret 
+Elisabet Angelov",person,,,,
+"person:BILAGA   
+ 
+ 
+ 
+RS","BILAGA   
+ 
+ 
+ 
+RS",person,,,,
+"person:Regionstyrelsen 
+ 
+ 
+Förslag","Regionstyrelsen 
+ 
+ 
+Förslag",person,,,,
+person:AB SL Finans,AB SL Finans,person,,,,
+person:Daniel Angermann  Ledamot,Daniel Angermann  Ledamot,person,,,,
+person:Catarina Strömsten Falkenmark,Catarina Strömsten Falkenmark,person,,,,
+person:Fredrik Persson  Ledamot,Fredrik Persson  Ledamot,person,,,,
+person:AB Terreno,AB Terreno,person,,,,
+person:Victoria Hörnedal  Ledamot,Victoria Hörnedal  Ledamot,person,,,,
+person:Dan Eriksson  Ledamot,Dan Eriksson  Ledamot,person,,,,
+person:Charlotte Viksten  Ledamot,Charlotte Viksten  Ledamot,person,,,,
+person:Stockholm AB,Stockholm AB,person,,,,
+person:Andreas Henriksson  Ledamot,Andreas Henriksson  Ledamot,person,,,,
+person:Corinne Pedroletti  Ledamot,Corinne Pedroletti  Ledamot,person,,,,
+person:Christina Sjöstrand  Suppleant,Christina Sjöstrand  Suppleant,person,,,,
+doc:43,Regiondirektörens_tjänsteutlåtande_-_Nominering_och_val_av_ledamöter_till_Region_Stockholms_hel-_och_delägda_bolag,document,2026-05-05,RS-2025-0986,service_memo,/home/demo/data/2026-05-05/33._Val_av_ledamöter_till_Region_Stockholms_hel-_och_delägda_bolag_samt_nominering_till_Tiohundra_AB_RS_2025-0986/Regiondirektörens_tjänsteutlåtande_-_Nominering_och_val_av_ledamöter_till_Region_Stockholms_hel-_och_delägda_bolag.pdf
+"person:Regionledningskontoret  TJÄNSTEUTLÅTANDE  
+Elisabet","Regionledningskontoret  TJÄNSTEUTLÅTANDE  
+Elisabet",person,,,,
+"person:Regionstyrelsen 
+ 
+ 
+Nominering","Regionstyrelsen 
+ 
+ 
+Nominering",person,,,,
+"person:Folktandvården 
+Stockholms","Folktandvården 
+Stockholms",person,,,,
+person:MediCarrier AB,MediCarrier AB,person,,,,
+person:Sverige AB,Sverige AB,person,,,,
+person:TioHundra AB,TioHundra AB,person,,,,
+person:Tobiasregistret AB,Tobiasregistret AB,person,,,,
+person:TJÄNSTEUTLÅTANDE RS,TJÄNSTEUTLÅTANDE RS,person,,,,
+"person:Sammanfattning 
+Regionstyrelsen","Sammanfattning 
+Regionstyrelsen",person,,,,
+"person:Bakgrund 
+Enligt","Bakgrund 
+Enligt",person,,,,
+doc:44,§71_Regionstyrelsen_Nominering_och_val_av_ledamöter_till_Region_Stockholms_hel-_och_delägda_bolag,document,2026-05-05,RS-2025-0986,document,/home/demo/data/2026-05-05/33._Val_av_ledamöter_till_Region_Stockholms_hel-_och_delägda_bolag_samt_nominering_till_Tiohundra_AB_RS_2025-0986/§71_Regionstyrelsen_Nominering_och_val_av_ledamöter_till_Region_Stockholms_hel-_och_delägda_bolag.pdf
+"person:Regionstyrelsen 
+PROTOKOLLSUTDRAG RS","Regionstyrelsen 
+PROTOKOLLSUTDRAG RS",person,,,,
+person:Ordförande Justerare Exp,Ordförande Justerare Exp,person,,,,
+"person:Yrkanden 
+Ordförande Aida","Yrkanden 
+Ordförande Aida",person,,,,
+"person:Beslut 
+Regionstyrelsen","Beslut 
+Regionstyrelsen",person,,,,
+person:Folktandvården Stockholms,Folktandvården Stockholms,person,,,,
+doc:45,Bilaga_-_Förslag_till_val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB,document,2026-05-05,RS-2026-0271,proposal,/home/demo/data/2026-05-05/34._Val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB_RS_2026-0271/Bilaga_-_Förslag_till_val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB.pdf
+case:RS-2026-0271,RS-2026-0271,case,,,,
+person:Michaela Haga,Michaela Haga,person,,,,
+doc:46,Regiondirektörens_tjänsteutlåtande_-_Val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB,document,2026-05-05,RS-2026-0271,service_memo,/home/demo/data/2026-05-05/34._Val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB_RS_2026-0271/Regiondirektörens_tjänsteutlåtande_-_Val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB.pdf
+"person:Regionstyrelsen 
+ 
+ 
+Val","Regionstyrelsen 
+ 
+ 
+Val",person,,,,
+"person:Oslo-
+Stockholm","Oslo-
+Stockholm",person,,,,
+"person:AB 
+ 
+Regionledningskontorets","AB 
+ 
+Regionledningskontorets",person,,,,
+"person:Sammanfattning 
+Regionfullmäktige","Sammanfattning 
+Regionfullmäktige",person,,,,
+"person:Bakgrund 
+Regionfullmäktige","Bakgrund 
+Regionfullmäktige",person,,,,
+"person:Emma Lennartsson 
+Regiondirektör","Emma Lennartsson 
+Regiondirektör",person,,,,
+"person:Katarina Holmgren 
+Ekonomidirektör","Katarina Holmgren 
+Ekonomidirektör",person,,,,
+"person:AB 
+Beslutsexpediering","AB 
+Beslutsexpediering",person,,,,
+"person:AB 
+ 
+ 
+Godkänd","AB 
+ 
+ 
+Godkänd",person,,,,
+person:Emma Lennartsson,Emma Lennartsson,person,,,,
+doc:47,§72_Regionstyrelsen_Val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB,document,2026-05-05,RS-2026-0271,document,/home/demo/data/2026-05-05/34._Val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB_RS_2026-0271/§72_Regionstyrelsen_Val_av_ledamöter_och_suppleant_till_styrelsen_för_Oslo-Stockholm_2.55_AB.pdf
+"person:AB 
+RS","AB 
+RS",person,,,,
+"person:AB 
+ 
+Yrkanden 
+Ordförande","AB 
+ 
+Yrkanden 
+Ordförande",person,,,,
+"person:AB 
+ 
+Page","AB 
+ 
+Page",person,,,,
+"person:Regionrådsberedningen 
+ 
+SKRIVELSE","Regionrådsberedningen 
+ 
+SKRIVELSE",person,,,,
+"person:AB 
+ 
+Föredragande","AB 
+ 
+Föredragande",person,,,,
+"person:Ärendebeskrivning 
+Regionfullmäktige","Ärendebeskrivning 
+Regionfullmäktige",person,,,,
+"person:AB 
+ 
+ 
+Aida","AB 
+ 
+ 
+Aida",person,,,,
+doc:48,Årsredovisning_2025_för_Kommunalförbundet_sjukvård_och_omsorg_i_Norrtälje_(KSON),document,2026-05-05,RS-2026-0120,document,/home/demo/data/2026-05-05/35._För_anmälan_-_Årsredovisning_2025_för_Kommunalförbundet_sjukvård_och_omsorg_i_Norrtälje_(KSON)_RS_2026-0120/Årsredovisning_2025_för_Kommunalförbundet_sjukvård_och_omsorg_i_Norrtälje_(KSON).pdf
+case:RS-2026-0120,RS-2026-0120,case,,,,
+"person:SAMMANTRÄDESPROTOKOLL 
+Sida","SAMMANTRÄDESPROTOKOLL 
+Sida",person,,,,
+"person:Region NORRTÄLJE 
+Stockholm","Region NORRTÄLJE 
+Stockholm",person,,,,
+"person:KOMMUN 
+Kommunalförbundet Sjukvård","KOMMUN 
+Kommunalförbundet Sjukvård",person,,,,
+"person:Norrtälje 
+Sammanträdesdatum","Norrtälje 
+Sammanträdesdatum",person,,,,
+person:Dnr KSON,Dnr KSON,person,,,,
+person:Ekonomichef Ulrika Lindberg,Ekonomichef Ulrika Lindberg,person,,,,
+person:Göran Stiernstedt,Göran Stiernstedt,person,,,,
+"person:Tiohundra AB 
+Towa","Tiohundra AB 
+Towa",person,,,,
+person:VD Tiohundra AB,VD Tiohundra AB,person,,,,
+person:Silfvander Jens,Silfvander Jens,person,,,,
+"person:Tiohundra 
+AB","Tiohundra 
+AB",person,,,,
+person:För KSON,För KSON,person,,,,
+person:Tiohundra AB,Tiohundra AB,person,,,,
+doc:49,Missiv_-_Revisionsberättelser_och_granskningsrapporter_för_verksamhetsåret_2025,document,2026-05-05,unknown_case,document,"/home/demo/data/2026-05-05/37._Revisionsberättelser_och_granskningsrapporter_för_regionstyrelsen,_övriga_nämnder_och_bolag_m.m._och_för_Kommunalförbundet_Sjukvård_och_omsorg_i_Norrtäljes_verksamhet_år_2025_samt_ansvarsprövning_/Missiv_-_Revisionsberättelser_och_granskningsrapporter_för_verksamhetsåret_2025.pdf"
+"person:Stockholm 
+ 
+Telefon","Stockholm 
+ 
+Telefon",person,,,,
+"person:Stockholm 
+Org","Stockholm 
+Org",person,,,,
+person:T-bana Rådhuset,T-bana Rådhuset,person,,,,
+"person:Diarienummer 
+RK","Diarienummer 
+RK",person,,,,
+"person:Regionfullmäktige 
+ 
+Revisionsberättelser","Regionfullmäktige 
+ 
+Revisionsberättelser",person,,,,
+person:Malmros Annika Sandström,Malmros Annika Sandström,person,,,,
+"person:Staffan Olsson 
+Ordförande","Staffan Olsson 
+Ordförande",person,,,,
+person:Addo Sign ID-nummer,Addo Sign ID-nummer,person,,,,
+"person:Undertecknare
+Annika Sandström","Undertecknare
+Annika Sandström",person,,,,
+"person:BankID File
+Hans-Erik","BankID File
+Hans-Erik",person,,,,
+"person:BankID Mobile
+Anders","BankID Mobile
+Anders",person,,,,
+person:Staffan Olsson,Staffan Olsson,person,,,,
+"person:BankID Mobile
+Dokument","BankID Mobile
+Dokument",person,,,,
+person:Missiv Årlig,Missiv Årlig,person,,,,
+person:Addo Sign,Addo Sign,person,,,,
+doc:50,"Regionfullmäktiges_presidiums_förslag_till_beslut_-_Revisionsberättelser_och_granskningsrapporter_för_regionstyrelsen,_övriga_nämnder_och_bolag_m.m._och_för_Kommunalförbundet_Sjukvård_och_omsorg_i_Nor",document,2026-05-05,unknown_case,proposal,"/home/demo/data/2026-05-05/37._Revisionsberättelser_och_granskningsrapporter_för_regionstyrelsen,_övriga_nämnder_och_bolag_m.m._och_för_Kommunalförbundet_Sjukvård_och_omsorg_i_Norrtäljes_verksamhet_år_2025_samt_ansvarsprövning_/Regionfullmäktiges_presidiums_förslag_till_beslut_-_Revisionsberättelser_och_granskningsrapporter_för_regionstyrelsen,_övriga_nämnder_och_bolag_m.m._och_för_Kommunalförbundet_Sjukvård_och_omsorg_i_Nor.pdf"
+person:Kommunalförbundet Sjukvård,Kommunalförbundet Sjukvård,person,,,,
+"person:Ärendet 
+ 
+Enligt","Ärendet 
+ 
+Enligt",person,,,,
+person:Mikael Sundesten Harry,Mikael Sundesten Harry,person,,,,
+person:Bouveng Ajda Asgari,Bouveng Ajda Asgari,person,,,,
+doc:51,Revisionsberättelse_för_Kommunalförbundet_Sjukvård_och_omsorg_i_Norrtälje_år_2025_inklusive_bilagor,document,2026-05-05,unknown_case,document,"/home/demo/data/2026-05-05/37._Revisionsberättelser_och_granskningsrapporter_för_regionstyrelsen,_övriga_nämnder_och_bolag_m.m._och_för_Kommunalförbundet_Sjukvård_och_omsorg_i_Norrtäljes_verksamhet_år_2025_samt_ansvarsprövning_/Revisionsberättelse_för_Kommunalförbundet_Sjukvård_och_omsorg_i_Norrtälje_år_2025_inklusive_bilagor.pdf"
+"person:Norrtälje 
+Kommunfullmäktige","Norrtälje 
+Kommunfullmäktige",person,,,,
+person:Norrtäljes Gemensamma Hälso,Norrtäljes Gemensamma Hälso,person,,,,
+"person:Norrtälje 
+ 
+ 
+Maj Åberg","Norrtälje 
+ 
+ 
+Maj Åberg",person,,,,
+person:Palm      Lena Cronvall,Palm      Lena Cronvall,person,,,,
+person:Göran Härngren    Lola,Göran Härngren    Lola,person,,,,
+"person:Bodin 
+ 
+ 
+ 
+Bilaga  
+Revisorernas","Bodin 
+ 
+ 
+ 
+Bilaga  
+Revisorernas",person,,,,
+"person:UTC
+Deltagare
+ 
+ 
+ÖHRLINGS","UTC
+Deltagare
+ 
+ 
+ÖHRLINGS",person,,,,
+person:PRICEWATERHOUSECOOPERS AB,PRICEWATERHOUSECOOPERS AB,person,,,,
+"person:Sverige
+ 
+ 
+KOMMUNALFÖRBUNDET SJUKVÅRD","Sverige
+ 
+ 
+KOMMUNALFÖRBUNDET SJUKVÅRD",person,,,,
+person:OCH OMSORG,OCH OMSORG,person,,,,
+"person:Sverige
+Signerat","Sverige
+Signerat",person,,,,
+doc:52,Revisionsberättelser_och_granskningsrapporter_för_verksamhetsåret_2025,document,2026-05-05,unknown_case,document,"/home/demo/data/2026-05-05/37._Revisionsberättelser_och_granskningsrapporter_för_regionstyrelsen,_övriga_nämnder_och_bolag_m.m._och_för_Kommunalförbundet_Sjukvård_och_omsorg_i_Norrtäljes_verksamhet_år_2025_samt_ansvarsprövning_/Revisionsberättelser_och_granskningsrapporter_för_verksamhetsåret_2025.pdf"
+"person:Regionrevisorerna   
+Region Stockholm","Regionrevisorerna   
+Region Stockholm",person,,,,
+person:Revisorsgrupp II,Revisorsgrupp II,person,,,,
+person:Revisorsgrupp III,Revisorsgrupp III,person,,,,
+person:Inriktningsmålen Hälso,Inriktningsmålen Hälso,person,,,,
+doc:53,Bilaga_-_Demografiskt_bostadsbehov_i_Stockholmsregionen_2022-2060,document,2026-05-05,RS-2025-0760,document,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/Bilaga_-_Demografiskt_bostadsbehov_i_Stockholmsregionen_2022-2060.pdf
+case:RS-2025-0760,RS-2025-0760,case,,,,
+"person:Stockholm 
+Besöksadress","Stockholm 
+Besöksadress",person,,,,
+"person:Innehåll
+Innehåll","Innehåll
+Innehåll",person,,,,
+"person:Sammanfattning 
+Att","Sammanfattning 
+Att",person,,,,
+person:Kommun Antal,Kommun Antal,person,,,,
+person:Låg Hög Låg,Låg Hög Låg,person,,,,
+"person:Hög  
+Botkyrka","Hög  
+Botkyrka",person,,,,
+"person:Upplands-
+Väsby","Upplands-
+Väsby",person,,,,
+"person:Inledning 
+En","Inledning 
+En",person,,,,
+"person:Avgränsningar 
+Följande","Avgränsningar 
+Följande",person,,,,
+person:För Stockholms,För Stockholms,person,,,,
+person:Enligt SCB,Enligt SCB,person,,,,
+person:Kommun Totalt,Kommun Totalt,person,,,,
+person:Upplands Väsby,Upplands Väsby,person,,,,
+person:För Region Stockholm,För Region Stockholm,person,,,,
+doc:54,Bilaga_-_Hållbarhetsbedömning_med_strategisk_miljöbedömning_för_Stockholmsregionen,document,2026-05-05,RS-2025-0760,document,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/Bilaga_-_Hållbarhetsbedömning_med_strategisk_miljöbedömning_för_Stockholmsregionen.pdf
+"person:WSP Sverige 
+Dnr","WSP Sverige 
+Dnr",person,,,,
+"person:Miljökonsekvenser  
+Vatten  
+Avsnitt","Miljökonsekvenser  
+Vatten  
+Avsnitt",person,,,,
+"person:Naturmiljö  
+Avsnitt","Naturmiljö  
+Avsnitt",person,,,,
+"person:Klimatpåverkan  
+Avsnitt","Klimatpåverkan  
+Avsnitt",person,,,,
+"person:Innehållsförteckning
+Samlad","Innehållsförteckning
+Samlad",person,,,,
+"person:Inledning 
+Den","Inledning 
+Den",person,,,,
+"person:Syfte  
+Syftet","Syfte  
+Syftet",person,,,,
+"person:Avgränsning 
+En","Avgränsning 
+En",person,,,,
+"person:Klimatpåverkan 
+Risk","Klimatpåverkan 
+Risk",person,,,,
+"person:Miljöbalken 
+Portalparagrafen","Miljöbalken 
+Portalparagrafen",person,,,,
+person:Riksintresse Kungliga,Riksintresse Kungliga,person,,,,
+person:Riksintresse Stockholms,Riksintresse Stockholms,person,,,,
+"person:Kommunallagen 
+Det","Kommunallagen 
+Det",person,,,,
+"person:Barnkonventionen 
+Sedan","Barnkonventionen 
+Sedan",person,,,,
+doc:55,Bilaga_-_Långsiktiga_utvecklingsbehov_av_transportsystemet_i_Stockholmsregionen,document,2026-05-05,RS-2025-0760,document,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/Bilaga_-_Långsiktiga_utvecklingsbehov_av_transportsystemet_i_Stockholmsregionen.pdf
+"person:Innehåll 
+Innehåll","Innehåll 
+Innehåll",person,,,,
+"person:Inledning 
+Denna","Inledning 
+Denna",person,,,,
+"person:Västra 
+Stambanan","Västra 
+Stambanan",person,,,,
+person:Östra Mellansverige,Östra Mellansverige,person,,,,
+person:Stockholm Arlanda Airport,Stockholm Arlanda Airport,person,,,,
+"person:TEN-T-förordningen 
+De","TEN-T-förordningen 
+De",person,,,,
+"person:Underlag 
+ 
+Framtidens","Underlag 
+ 
+Framtidens",person,,,,
+person:Svenskt Näringsliv,Svenskt Näringsliv,person,,,,
+person:Trafikförvaltningen Region Stockholm,Trafikförvaltningen Region Stockholm,person,,,,
+"person:Trafikverket 
+Prioritet","Trafikverket 
+Prioritet",person,,,,
+person:Stockholm Nordost,Stockholm Nordost,person,,,,
+person:Regional Utvecklingsplan,Regional Utvecklingsplan,person,,,,
+doc:56,Bilaga_-_Riksintressen_i_regional_utvecklingsplan_förStockholmsregionen,document,2026-05-05,RS-2025-0760,document,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/Bilaga_-_Riksintressen_i_regional_utvecklingsplan_förStockholmsregionen.pdf
+person:WSP Sverige AB,WSP Sverige AB,person,,,,
+"person:Bakgrund  
+Detta","Bakgrund  
+Detta",person,,,,
+"person:Syfte 
+Syftet","Syfte 
+Syftet",person,,,,
+"person:Läshänvisning 
+Bilagan","Läshänvisning 
+Bilagan",person,,,,
+"person:Riksintressesystemet 
+Riksintressen","Riksintressesystemet 
+Riksintressen",person,,,,
+person:PM Riksintressen,PM Riksintressen,person,,,,
+"person:Även 
+Natura","Även 
+Natura",person,,,,
+"person:Stockholmsregionen  
+En","Stockholmsregionen  
+En",person,,,,
+"person:Avgränsning 
+De","Avgränsning 
+De",person,,,,
+person:Hanteras Hanteras,Hanteras Hanteras,person,,,,
+person:Kulturmiljövården Rörligt,Kulturmiljövården Rörligt,person,,,,
+"person:Rennäring 
+Naturvården Nationalstadsparken","Rennäring 
+Naturvården Nationalstadsparken",person,,,,
+"person:Energidistribution 
+Friluftslivet Natura","Energidistribution 
+Friluftslivet Natura",person,,,,
+person:Yrkesfiske  Värdefulla,Yrkesfiske  Värdefulla,person,,,,
+doc:57,Regional_utvecklingsplan_för_Stockholmsregionen,document,2026-05-05,RS-2025-0760,document,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/Regional_utvecklingsplan_för_Stockholmsregionen.pdf
+"person:Stockholmsregionen 
+Europas","Stockholmsregionen 
+Europas",person,,,,
+"person:Michaela Haga 
+Ordförande","Michaela Haga 
+Ordförande",person,,,,
+"person:Innehåll 
+ 
+Till","Innehåll 
+ 
+Till",person,,,,
+person:VÅR VISION,VÅR VISION,person,,,,
+person:DEN REGIONALA  UTVECKLINGSPLANEN,DEN REGIONALA  UTVECKLINGSPLANEN,person,,,,
+person:Sveriges BNP,Sveriges BNP,person,,,,
+"person:Mellansverige  
+Stockholmsregionen","Mellansverige  
+Stockholmsregionen",person,,,,
+"person:Mellansverige  
+ 
+ 
+Stockholmsregionens","Mellansverige  
+ 
+ 
+Stockholmsregionens",person,,,,
+person:Utbildning SCB,Utbildning SCB,person,,,,
+person:Silicon Valley,Silicon Valley,person,,,,
+"person:NÄRINGSLIVETS STYRKEOMRÅDEN 
+Branscher","NÄRINGSLIVETS STYRKEOMRÅDEN 
+Branscher",person,,,,
+doc:58,Särskilt_utlåtande_Ny_regional_utvecklingsplan_för_Stockholmsregionen,document,2026-05-05,RS-2025-0760,document,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/Särskilt_utlåtande_Ny_regional_utvecklingsplan_för_Stockholmsregionen.pdf
+"person:Stockholmsregionen 
+ 
+ 
+ 
+   
+ 
+ 
+  
+  
+Region Stockholm","Stockholmsregionen 
+ 
+ 
+ 
+   
+ 
+ 
+  
+  
+Region Stockholm",person,,,,
+"person:Regionledningskontoret
+Box","Regionledningskontoret
+Box",person,,,,
+"person:Stockholm
+Besöksadress","Stockholm
+Besöksadress",person,,,,
+person:Bilaga Riksintressen,Bilaga Riksintressen,person,,,,
+person:Bilaga Demografiskt,Bilaga Demografiskt,person,,,,
+person:Bilaga Hållbarhetsbedömning,Bilaga Hållbarhetsbedömning,person,,,,
+person:Bilaga Långsiktiga,Bilaga Långsiktiga,person,,,,
+"person:Sammanfattning 
+Under","Sammanfattning 
+Under",person,,,,
+person:Bilaga Transportsystemets,Bilaga Transportsystemets,person,,,,
+doc:59,Utvecklingsdirektörens_tjänsteutlåtande_-_Ny_regional_utvecklingsplan_för_Stockholmsregionen,document,2026-05-05,RS-2025-0760,service_memo,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/Utvecklingsdirektörens_tjänsteutlåtande_-_Ny_regional_utvecklingsplan_för_Stockholmsregionen.pdf
+"person:Regionledningskontoret  TJÄNSTEUTLÅTANDE  
+Jenny","Regionledningskontoret  TJÄNSTEUTLÅTANDE  
+Jenny",person,,,,
+person:Carlsson Widell,Carlsson Widell,person,,,,
+"person:Stockholmsregionen 
+ 
+Regionledningskontorets","Stockholmsregionen 
+ 
+Regionledningskontorets",person,,,,
+"person:Sammanfattning 
+Den","Sammanfattning 
+Den",person,,,,
+"person:Bakgrund 
+Den","Bakgrund 
+Den",person,,,,
+doc:60,§14_Infrastruktur-_och_regionplaneringsutskottet_Ny_regional_utvecklingsplan_för_Stockholmsregionen,document,2026-05-05,RS-2025-0760,document,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/§14_Infrastruktur-_och_regionplaneringsutskottet_Ny_regional_utvecklingsplan_för_Stockholmsregionen.pdf
+person:PROTOKOLLSUTDRAG RS,PROTOKOLLSUTDRAG RS,person,,,,
+"person:Stockholmsregionen 
+RS","Stockholmsregionen 
+RS",person,,,,
+"person:Stockholmsregionen 
+ 
+ 
+Yrkanden 
+Ordförande","Stockholmsregionen 
+ 
+ 
+Yrkanden 
+Ordförande",person,,,,
+"person:Beslutsgång 
+Ordförande Michaela","Beslutsgång 
+Ordförande Michaela",person,,,,
+"person:Beslut 
+Infrastruktur","Beslut 
+Infrastruktur",person,,,,
+person:Ledamoten Samuel Stephan,Ledamoten Samuel Stephan,person,,,,
+person:Ledamoten Anna Sehlin,Ledamoten Anna Sehlin,person,,,,
+doc:61,§81_Regionstyrelsen_Ny_regional_utvecklingsplan_för_Stockholmsregionen,document,2026-05-05,RS-2025-0760,document,/home/demo/data/2026-05-05/38._Ny_regional_utvecklingsplan_för_Stockholmsregionen_RS_2025-0760/§81_Regionstyrelsen_Ny_regional_utvecklingsplan_för_Stockholmsregionen.pdf
+"person:Stockholmsregionen 
+ 
+Yrkanden 
+Ordförande","Stockholmsregionen 
+ 
+Yrkanden 
+Ordförande",person,,,,
+person:Ledamoten Axel Conradi,Ledamoten Axel Conradi,person,,,,
+person:Ledamoten Msciwoj Swigon,Ledamoten Msciwoj Swigon,person,,,,
+"person:Beslutsgång 
+Ordförande Aida","Beslutsgång 
+Ordförande Aida",person,,,,
+"person:Reservation 
+Ledamoten Axel","Reservation 
+Ledamoten Axel",person,,,,
+doc:62,Interpellation_2026_12_av_Kristoffer_Tamsons_(M)_om_ökande_kostnader_och_minskade_statsbidrag_på_grund_av_att_Region_Stockholm_är_sverigesämst,document,2026-05-05,RS-2026-0211,interpellation,/home/demo/data/2026-05-05/4._Bordlagd_interpellation_2026_12_av_Kristoffer_Tamsons_(M)_om_ökande_kostnader_och_minskade_statsbidrag_på_grund_av_att_Region_Stockholm_är_sverigesämst_RS_2026-0211/Interpellation_2026_12_av_Kristoffer_Tamsons_(M)_om_ökande_kostnader_och_minskade_statsbidrag_på_grund_av_att_Region_Stockholm_är_sverigesämst.pdf
+case:RS-2026-0211,RS-2026-0211,case,,,,
+"person:Kristoffer Tamsons 
+Moderaterna","Kristoffer Tamsons 
+Moderaterna",person,,,,
+doc:63,Svar_på_interpellation_2026_12_av_Kristoffer_Tamsons_(M)_om_ökande_kostnader_och_minskade_statsbidrag_på_grund_av_att_Region_Stockholm_är_sverigesämst,document,2026-05-05,RS-2026-0211,interpellation,/home/demo/data/2026-05-05/4._Bordlagd_interpellation_2026_12_av_Kristoffer_Tamsons_(M)_om_ökande_kostnader_och_minskade_statsbidrag_på_grund_av_att_Region_Stockholm_är_sverigesämst_RS_2026-0211/Svar_på_interpellation_2026_12_av_Kristoffer_Tamsons_(M)_om_ökande_kostnader_och_minskade_statsbidrag_på_grund_av_att_Region_Stockholm_är_sverigesämst.pdf
