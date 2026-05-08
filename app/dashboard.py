@@ -7,6 +7,7 @@ from urllib import error, request
 
 import pandas as pd
 import streamlit as st
+import streamlit.components.v1 as components
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 if str(BASE_DIR) not in sys.path:
@@ -25,6 +26,13 @@ def read_csv_safe(path: Path) -> pd.DataFrame:
     if not path.exists():
         return pd.DataFrame()
     return pd.read_csv(path)
+
+
+def render_html_file(path: Path, height: int = 760):
+    if not path.exists():
+        st.info(f"Missing file: {path}")
+        return
+    components.html(path.read_text(encoding="utf-8", errors="ignore"), height=height, scrolling=True)
 
 
 def call_agent_api(base_url: str, question: str, top_k: int):
@@ -408,6 +416,10 @@ def main():
 
     with tab1:
         hidden_path = out_dir / "hidden_connections_analysis.md"
+        graph_html = out_dir / "graph.html"
+        st.markdown("### Investigation Graph")
+        render_html_file(graph_html, height=760)
+
         col_a, col_b = st.columns(2)
         with col_a:
             st.markdown("### Investigation Findings")
@@ -425,18 +437,12 @@ def main():
     with tab2:
         timeline_html = out_dir / "timeline.html"
         st.markdown("### Interactive Topic Timeline")
-        if timeline_html.exists():
-            st.iframe(timeline_html.resolve().as_uri(), height=760)
-        else:
-            st.info(f"Missing file: {timeline_html}")
+        render_html_file(timeline_html, height=760)
 
     with tab3:
         graph_html = out_dir / "graph.html"
         st.markdown("### Interactive Investigation Graph")
-        if graph_html.exists():
-            st.iframe(graph_html.resolve().as_uri(), height=760)
-        else:
-            st.info(f"Missing file: {graph_html}")
+        render_html_file(graph_html, height=760)
 
     with tab4:
         st.markdown("### Suspicious Case Clusters")
